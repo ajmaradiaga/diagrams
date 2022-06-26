@@ -159,6 +159,7 @@ cleaners = {
     "generic": cleaner_generic,
     "openstack": cleaner_openstack,
     "gis": cleaner_gis,
+    "sap": cleaner_generic,
 }
 
 
