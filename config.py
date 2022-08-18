@@ -483,5 +483,5 @@ ALIASES = {
             "Tripleo": "TripleO",
         }
     },
-    "sap": {}
+    "sap": { }
 }
