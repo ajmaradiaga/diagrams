@@ -32,6 +32,10 @@ class SaasProvisioningService_Circle(_Other):
     _icon = "saas-provisioning-service_circle.png"
 
 
+class SAPBTP(_Other):
+    _icon = "sap-btp.png"
+
+
 class ServiceManager(_Other):
     _icon = "service-manager.png"
 

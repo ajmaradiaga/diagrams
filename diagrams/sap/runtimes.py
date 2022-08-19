@@ -16,6 +16,10 @@ class CloudFoundryRuntime_Circle(_Runtimes):
     _icon = "cloud-foundry-runtime_circle.png"
 
 
+class CloudFoundry(_Runtimes):
+    _icon = "cloud-foundry.png"
+
+
 class Html5Applications(_Runtimes):
     _icon = "html5-applications.png"
 

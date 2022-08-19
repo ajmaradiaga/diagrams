@@ -64,4 +64,8 @@ class SAPHANASpatialServices_Circle(_Database_Datamanagement):
     _icon = "sap-hana-spatial-services_circle.png"
 
 
+class SAPHANA(_Database_Datamanagement):
+    _icon = "sap-hana.png"
+
+
 # Aliases

@@ -47,6 +47,7 @@ Node classes list of sap provider.
 - **diagrams.sap.database_datamanagement.SAPHANAService_Circle**
 - **diagrams.sap.database_datamanagement.SAPHANASpatialServices**
 - **diagrams.sap.database_datamanagement.SAPHANASpatialServices_Circle**
+- **diagrams.sap.database_datamanagement.SAPHANA**
 
 ## sap.development
 
@@ -80,6 +81,13 @@ Node classes list of sap provider.
 - **diagrams.sap.devops.Monitoring_Circle**
 - **diagrams.sap.devops.TransportManagement**
 - **diagrams.sap.devops.TransportManagement_Circle**
+
+## sap.erp
+
+- **diagrams.sap.erp.S4HANACloud**
+- **diagrams.sap.erp.S4HANA**
+- **diagrams.sap.erp.SAPS4HANACloud**
+- **diagrams.sap.erp.SAPS4HANA**
 
 ## sap.integration
 
@@ -130,6 +138,7 @@ Node classes list of sap provider.
 - **diagrams.sap.other.Placeholder_Circle**
 - **diagrams.sap.other.SaasProvisioningService**
 - **diagrams.sap.other.SaasProvisioningService_Circle**
+- **diagrams.sap.other.SAPBTP**
 - **diagrams.sap.other.ServiceManager**
 - **diagrams.sap.other.ServiceManager_Circle**
 
@@ -144,10 +153,24 @@ Node classes list of sap provider.
 
 - **diagrams.sap.runtimes.CloudFoundryRuntime**
 - **diagrams.sap.runtimes.CloudFoundryRuntime_Circle**
+- **diagrams.sap.runtimes.CloudFoundry**
 - **diagrams.sap.runtimes.Html5Applications**
 - **diagrams.sap.runtimes.Html5Applications_Circle**
 - **diagrams.sap.runtimes.KymaRuntime**
 - **diagrams.sap.runtimes.KymaRuntime_Circle**
+
+## sap.saas
+
+- **diagrams.sap.saas.SAPAribaBlack**
+- **diagrams.sap.saas.SAPAriba**
+- **diagrams.sap.saas.SAPConcurBlack**
+- **diagrams.sap.saas.SAPConcur**
+- **diagrams.sap.saas.SAPFieldglassBlack**
+- **diagrams.sap.saas.SAPFieldglass**
+- **diagrams.sap.saas.SAPHealthBlack**
+- **diagrams.sap.saas.SAPHealth**
+- **diagrams.sap.saas.SAPSuccessfactorsBlack**
+- **diagrams.sap.saas.SAPSuccessfactors**
 
 ## sap.security
 
