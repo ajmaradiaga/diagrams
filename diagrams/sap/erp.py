@@ -8,14 +8,6 @@ class _Erp(_SAP):
     _icon_dir = "resources/sap/erp"
 
 
-class S4HANACloud(_Erp):
-    _icon = "s4hana-cloud.png"
-
-
-class S4HANA(_Erp):
-    _icon = "s4hana.png"
-
-
 class SAPS4HANACloud(_Erp):
     _icon = "sap-s4hana-cloud.png"
 

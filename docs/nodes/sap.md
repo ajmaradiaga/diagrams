@@ -84,8 +84,6 @@ Node classes list of sap provider.
 
 ## sap.erp
 
-- **diagrams.sap.erp.S4HANACloud**
-- **diagrams.sap.erp.S4HANA**
 - **diagrams.sap.erp.SAPS4HANACloud**
 - **diagrams.sap.erp.SAPS4HANA**
 
