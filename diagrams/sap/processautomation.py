@@ -8,20 +8,44 @@ class _Processautomation(_SAP):
     _icon_dir = "resources/sap/processautomation"
 
 
-class SAPIntelligentRoboticProcessAutomation(_Processautomation):
-    _icon = "sap-intelligent-robotic-process-automation.png"
+class ProcessAutomation(_Processautomation):
+    _icon = "process-automation.png"
 
 
-class SAPIntelligentRoboticProcessAutomation_Circle(_Processautomation):
-    _icon = "sap-intelligent-robotic-process-automation_circle.png"
+class ProcessAutomation_Circled(_Processautomation):
+    _icon = "process-automation_circled.png"
 
 
-class Workflow(_Processautomation):
-    _icon = "workflow.png"
+class SAPBuildProcessAutomation(_Processautomation):
+    _icon = "sap-build-process-automation.png"
 
 
-class Workflow_Circle(_Processautomation):
-    _icon = "workflow_circle.png"
+class SAPBuildProcessAutomation_Circled(_Processautomation):
+    _icon = "sap-build-process-automation_circled.png"
+
+
+class SAPIntelligentRpa(_Processautomation):
+    _icon = "sap-intelligent-rpa.png"
+
+
+class SAPIntelligentRpa_Circled(_Processautomation):
+    _icon = "sap-intelligent-rpa_circled.png"
+
+
+class WorkflowManagement(_Processautomation):
+    _icon = "workflow-management.png"
+
+
+class WorkflowManagement_Circled(_Processautomation):
+    _icon = "workflow-management_circled.png"
+
+
+class WorkflowService(_Processautomation):
+    _icon = "workflow-service.png"
+
+
+class WorkflowService_Circled(_Processautomation):
+    _icon = "workflow-service_circled.png"
 
 
 # Aliases

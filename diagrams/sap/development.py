@@ -12,40 +12,76 @@ class ApplicationAutoscaler(_Development):
     _icon = "application-autoscaler.png"
 
 
-class ApplicationAutoscaler_Circle(_Development):
-    _icon = "application-autoscaler_circle.png"
+class ApplicationAutoscaler_Circled(_Development):
+    _icon = "application-autoscaler_circled.png"
+
+
+class ApplicationLogging(_Development):
+    _icon = "application-logging.png"
+
+
+class ApplicationLogging_Circled(_Development):
+    _icon = "application-logging_circled.png"
 
 
 class BusinessApplicationStudio(_Development):
     _icon = "business-application-studio.png"
 
 
-class BusinessApplicationStudio_Circle(_Development):
-    _icon = "business-application-studio_circle.png"
+class BusinessApplicationStudio_Circled(_Development):
+    _icon = "business-application-studio_circled.png"
 
 
-class FeatureFlags(_Development):
-    _icon = "feature-flags.png"
+class FeatureFlagsService(_Development):
+    _icon = "feature-flags-service.png"
 
 
-class FeatureFlags_Circle(_Development):
-    _icon = "feature-flags_circle.png"
+class FeatureFlagsService_Circled(_Development):
+    _icon = "feature-flags-service_circled.png"
 
 
 class RapidApplicationDevelopmentByMendix(_Development):
     _icon = "rapid-application-development-by-mendix.png"
 
 
-class RapidApplicationDevelopmentByMendix_Circle(_Development):
-    _icon = "rapid-application-development-by-mendix_circle.png"
+class RapidApplicationDevelopmentByMendix_Circled(_Development):
+    _icon = "rapid-application-development-by-mendix_circled.png"
+
+
+class SaasProvisioningServiceNa(_Development):
+    _icon = "saas-provisioning-service-na.png"
+
+
+class SaasProvisioningServiceNa_Circled(_Development):
+    _icon = "saas-provisioning-service-na_circled.png"
+
+
+class SAPBuildApps(_Development):
+    _icon = "sap-build-apps.png"
+
+
+class SAPBuildApps_Circled(_Development):
+    _icon = "sap-build-apps_circled.png"
+
+
+class UsageDataManagement445(_Development):
+    _icon = "usage-data-management-445.png"
 
 
 class UsageDataManagement(_Development):
     _icon = "usage-data-management.png"
 
 
-class UsageDataManagement_Circle(_Development):
-    _icon = "usage-data-management_circle.png"
+class UsageDataManagement_Circled(_Development):
+    _icon = "usage-data-management_circled.png"
+
+
+class WebIdeFullStack(_Development):
+    _icon = "web-ide-full-stack.png"
+
+
+class WebIdeFullStack_Circled(_Development):
+    _icon = "web-ide-full-stack_circled.png"
 
 
 # Aliases

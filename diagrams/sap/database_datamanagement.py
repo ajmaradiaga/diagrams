@@ -12,8 +12,8 @@ class DataQualityServices(_Database_Datamanagement):
     _icon = "data-quality-services.png"
 
 
-class DataQualityServices_Circle(_Database_Datamanagement):
-    _icon = "data-quality-services_circle.png"
+class DataQualityServices_Circled(_Database_Datamanagement):
+    _icon = "data-quality-services_circled.png"
 
 
 class Mongodb(_Database_Datamanagement):
@@ -28,8 +28,8 @@ class ObjectStore(_Database_Datamanagement):
     _icon = "object-store.png"
 
 
-class ObjectStore_Circle(_Database_Datamanagement):
-    _icon = "object-store_circle.png"
+class ObjectStore_Circled(_Database_Datamanagement):
+    _icon = "object-store_circled.png"
 
 
 class Postgresql(_Database_Datamanagement):
@@ -40,32 +40,36 @@ class Redis(_Database_Datamanagement):
     _icon = "redis.png"
 
 
-class SAPAseService(_Database_Datamanagement):
-    _icon = "sap-ase-service.png"
+class SAPHANACloud(_Database_Datamanagement):
+    _icon = "sap-hana-cloud.png"
 
 
-class SAPAseService_Circle(_Database_Datamanagement):
-    _icon = "sap-ase-service_circle.png"
+class SAPHANACloud_Circled(_Database_Datamanagement):
+    _icon = "sap-hana-cloud_circled.png"
 
 
-class SAPHANAService(_Database_Datamanagement):
-    _icon = "sap-hana-service.png"
+class SAPHANAPersistenceServiceNeo(_Database_Datamanagement):
+    _icon = "sap-hana-persistence-service-neo.png"
 
 
-class SAPHANAService_Circle(_Database_Datamanagement):
-    _icon = "sap-hana-service_circle.png"
+class SAPHANAPersistenceServiceNeo_Circled(_Database_Datamanagement):
+    _icon = "sap-hana-persistence-service-neo_circled.png"
 
 
 class SAPHANASpatialServices(_Database_Datamanagement):
     _icon = "sap-hana-spatial-services.png"
 
 
-class SAPHANASpatialServices_Circle(_Database_Datamanagement):
-    _icon = "sap-hana-spatial-services_circle.png"
+class SAPHANASpatialServices_Circled(_Database_Datamanagement):
+    _icon = "sap-hana-spatial-services_circled.png"
 
 
-class SAPHANA(_Database_Datamanagement):
-    _icon = "sap-hana.png"
+class SAPPersistenceServiceAse(_Database_Datamanagement):
+    _icon = "sap-persistence-service-ase.png"
+
+
+class SAPPersistenceServiceAse_Circled(_Database_Datamanagement):
+    _icon = "sap-persistence-service-ase_circled.png"
 
 
 # Aliases

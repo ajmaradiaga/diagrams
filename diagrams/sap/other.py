@@ -8,40 +8,56 @@ class _Other(_SAP):
     _icon_dir = "resources/sap/other"
 
 
-class CloudManagementService(_Other):
-    _icon = "cloud-management-service.png"
+class DateAndTime(_Other):
+    _icon = "date-and-time.png"
 
 
-class CloudManagementService_Circle(_Other):
-    _icon = "cloud-management-service_circle.png"
+class DateAndTime_Circled(_Other):
+    _icon = "date-and-time_circled.png"
 
 
-class Placeholder(_Other):
-    _icon = "placeholder.png"
+class IbanService(_Other):
+    _icon = "iban-service.png"
 
 
-class Placeholder_Circle(_Other):
-    _icon = "placeholder_circle.png"
+class IbanService_Circled(_Other):
+    _icon = "iban-service_circled.png"
 
 
-class SaasProvisioningService(_Other):
-    _icon = "saas-provisioning-service.png"
+class PlaceholderNewServices(_Other):
+    _icon = "placeholder-new-services.png"
 
 
-class SaasProvisioningService_Circle(_Other):
-    _icon = "saas-provisioning-service_circle.png"
+class PlaceholderNewServices_Circled(_Other):
+    _icon = "placeholder-new-services_circled.png"
+
+
+class PrintService(_Other):
+    _icon = "print-service.png"
+
+
+class PrintService_Circled(_Other):
+    _icon = "print-service_circled.png"
 
 
 class SAPBTP(_Other):
     _icon = "sap-btp.png"
 
 
-class ServiceManager(_Other):
-    _icon = "service-manager.png"
+class SAPIot(_Other):
+    _icon = "sap-iot.png"
 
 
-class ServiceManager_Circle(_Other):
-    _icon = "service-manager_circle.png"
+class SAPIot_Circled(_Other):
+    _icon = "sap-iot_circled.png"
+
+
+class WorkCalendar(_Other):
+    _icon = "work-calendar.png"
+
+
+class WorkCalendar_Circled(_Other):
+    _icon = "work-calendar_circled.png"
 
 
 # Aliases

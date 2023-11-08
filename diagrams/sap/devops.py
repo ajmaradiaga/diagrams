@@ -12,60 +12,92 @@ class AlertNotification(_Devops):
     _icon = "alert-notification.png"
 
 
-class AlertNotification_Circle(_Devops):
-    _icon = "alert-notification_circle.png"
-
-
-class ApplicationLogging(_Devops):
-    _icon = "application-logging.png"
-
-
-class ApplicationLogging_Circle(_Devops):
-    _icon = "application-logging_circle.png"
+class AlertNotification_Circled(_Devops):
+    _icon = "alert-notification_circled.png"
 
 
 class AutomationPilot(_Devops):
     _icon = "automation-pilot.png"
 
 
-class AutomationPilot_Circle(_Devops):
-    _icon = "automation-pilot_circle.png"
+class AutomationPilot_Circled(_Devops):
+    _icon = "automation-pilot_circled.png"
 
 
-class Bandwidth(_Devops):
-    _icon = "bandwidth.png"
+class CommInfraServiceCloudMgmt(_Devops):
+    _icon = "comm-infra-service-cloud-mgmt.png"
 
 
-class Bandwidth_Circle(_Devops):
-    _icon = "bandwidth_circle.png"
+class CommInfrastrServiceCloudMgmt_Circled(_Devops):
+    _icon = "comm-infrastr-service-cloud-mgmt_circled.png"
+
+
+class ContentAgent(_Devops):
+    _icon = "content-agent.png"
+
+
+class ContentAgent_Circled(_Devops):
+    _icon = "content-agent_circled.png"
 
 
 class ContinuousIntegrationAndDelivery(_Devops):
     _icon = "continuous-integration-and-delivery.png"
 
 
-class ContinuousIntegrationAndDelivery_Circle(_Devops):
-    _icon = "continuous-integration-and-delivery_circle.png"
+class ContinuousIntegrationAndDelivery_Circled(_Devops):
+    _icon = "continuous-integration-and-delivery_circled.png"
 
 
 class Dynatrace(_Devops):
     _icon = "dynatrace.png"
 
 
-class JobScheduler(_Devops):
-    _icon = "job-scheduler.png"
+class JobSchedulingService(_Devops):
+    _icon = "job-scheduling-service.png"
 
 
-class JobScheduler_Circle(_Devops):
-    _icon = "job-scheduler_circle.png"
+class JobSchedulingService_Circled(_Devops):
+    _icon = "job-scheduling-service_circled.png"
 
 
-class Monitoring(_Devops):
-    _icon = "monitoring.png"
+class MonitoringService(_Devops):
+    _icon = "monitoring-service.png"
 
 
-class Monitoring_Circle(_Devops):
-    _icon = "monitoring_circle.png"
+class MonitoringService_Circled(_Devops):
+    _icon = "monitoring-service_circled.png"
+
+
+class SAPCloudAlmMemoryExt(_Devops):
+    _icon = "sap-cloud-alm-memory-ext.png"
+
+
+class SAPCloudAlmMemoryExt_Circled(_Devops):
+    _icon = "sap-cloud-alm-memory-ext_circled.png"
+
+
+class SAPLandscapeManagementCloud(_Devops):
+    _icon = "sap-landscape-management-cloud.png"
+
+
+class SAPLandscapeManagementCloud_Circled(_Devops):
+    _icon = "sap-landscape-management-cloud_circled.png"
+
+
+class SAPSolutionLifecycleManagement(_Devops):
+    _icon = "sap-solution-lifecycle-management.png"
+
+
+class SAPSolutionLifecycleManagement_Circled(_Devops):
+    _icon = "sap-solution-lifecycle-management_circled.png"
+
+
+class ServiceManager(_Devops):
+    _icon = "service-manager.png"
+
+
+class ServiceManager_Circled(_Devops):
+    _icon = "service-manager_circled.png"
 
 
 class TransportManagement(_Devops):

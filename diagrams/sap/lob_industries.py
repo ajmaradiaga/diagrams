@@ -8,28 +8,28 @@ class _Lob_Industries(_SAP):
     _icon_dir = "resources/sap/lob_industries"
 
 
-class MarketRatesManagement(_Lob_Industries):
-    _icon = "market-rates-management.png"
+class SAPMarketRatesManagement(_Lob_Industries):
+    _icon = "sap-market-rates-management.png"
 
 
-class MarketRatesManagement_Circle(_Lob_Industries):
-    _icon = "market-rates-management_circle.png"
+class SAPMarketRatesManagement_Circled(_Lob_Industries):
+    _icon = "sap-market-rates-management_circled.png"
 
 
-class OmnichannelPromotionPricing(_Lob_Industries):
-    _icon = "omnichannel-promotion-pricing.png"
+class SAPOmnichannelPromotionPricing_Circled(_Lob_Industries):
+    _icon = "sap-omnichannel-promotion-pricing-_circled.png"
 
 
-class OmnichannelPromotionPricing_Circle(_Lob_Industries):
-    _icon = "omnichannel-promotion-pricing_circle.png"
+class SAPOmnichannelPromotionPricing(_Lob_Industries):
+    _icon = "sap-omnichannel-promotion-pricing.png"
 
 
-class VariantConfigurationService(_Lob_Industries):
-    _icon = "variant-configuration-service.png"
+class SAPVariantConfigurationAndPricing(_Lob_Industries):
+    _icon = "sap-variant-configuration-and-pricing.png"
 
 
-class VariantConfigurationService_Circle(_Lob_Industries):
-    _icon = "variant-configuration-service_circle.png"
+class SAPVariantConfigurationAndPricing_Circled(_Lob_Industries):
+    _icon = "sap-variant-configuration-and-pricing_circled.png"
 
 
 # Aliases

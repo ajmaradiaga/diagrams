@@ -8,84 +8,108 @@ class _Security(_SAP):
     _icon_dir = "resources/sap/security"
 
 
-class AuthorizationAndTrustManagement(_Security):
-    _icon = "authorization-and-trust-management.png"
+class AuditLogService(_Security):
+    _icon = "audit-log-service.png"
 
 
-class AuthorizationAndTrustManagement_Circle(_Security):
-    _icon = "authorization-and-trust-management_circle.png"
+class AuditLogService_Circled(_Security):
+    _icon = "audit-log-service_circled.png"
+
+
+class AuthorizationAndTrustManagementService(_Security):
+    _icon = "authorization-and-trust-management-service.png"
+
+
+class AuthorizationAndTrustManagementService_Circled(_Security):
+    _icon = "authorization-and-trust-management-service_circled.png"
 
 
 class CredentialStore(_Security):
     _icon = "credential-store.png"
 
 
-class CredentialStore_Circle(_Security):
-    _icon = "credential-store_circle.png"
+class CredentialStore_Circled(_Security):
+    _icon = "credential-store_circled.png"
 
 
 class CustomDomain(_Security):
     _icon = "custom-domain.png"
 
 
-class CustomDomain_Circle(_Security):
-    _icon = "custom-domain_circle.png"
+class CustomDomain_Circled(_Security):
+    _icon = "custom-domain_circled.png"
 
 
 class DataPrivacyIntegration(_Security):
     _icon = "data-privacy-integration.png"
 
 
-class DataPrivacyIntegration_Circle(_Security):
-    _icon = "data-privacy-integration_circle.png"
-
-
-class DataRetentionManager(_Security):
-    _icon = "data-retention-manager.png"
-
-
-class DataRetentionManager_Circle(_Security):
-    _icon = "data-retention-manager_circle.png"
+class DataPrivacyIntegration_Circled(_Security):
+    _icon = "data-privacy-integration_circled.png"
 
 
 class IdentityAuthentication(_Security):
     _icon = "identity-authentication.png"
 
 
-class IdentityAuthentication_Circle(_Security):
-    _icon = "identity-authentication_circle.png"
+class IdentityAuthentication_Circled(_Security):
+    _icon = "identity-authentication_circled.png"
+
+
+class IdentityDirectory(_Security):
+    _icon = "identity-directory.png"
+
+
+class IdentityDirectory_Circled(_Security):
+    _icon = "identity-directory_circled.png"
 
 
 class IdentityProvisioning(_Security):
     _icon = "identity-provisioning.png"
 
 
-class IdentityProvisioning_Circle(_Security):
-    _icon = "identity-provisioning_circle.png"
+class IdentityProvisioning_Circled(_Security):
+    _icon = "identity-provisioning_circled.png"
 
 
 class KeystoreService(_Security):
     _icon = "keystore-service.png"
 
 
-class KeystoreService_Circle(_Security):
-    _icon = "keystore-service_circle.png"
+class KeystoreService_Circled(_Security):
+    _icon = "keystore-service_circled.png"
 
 
-class Oauth2(_Security):
-    _icon = "oauth2.png"
+class MalwareScanningService(_Security):
+    _icon = "malware-scanning-service.png"
 
 
-class Oauth2_Circle(_Security):
-    _icon = "oauth2_circle.png"
+class MalwareScanningService_Circled(_Security):
+    _icon = "malware-scanning-service_circled.png"
 
 
-class PersonalDataManager(_Security):
-    _icon = "personal-data-manager.png"
+class Oauth2Service(_Security):
+    _icon = "oauth2-service.png"
 
 
-class PersonalDataManager_Circle(_Security):
-    _icon = "personal-data-manager_circle.png"
+class Oauth2Service_Circled(_Security):
+    _icon = "oauth2-service_circled.png"
+
+
+class SAPDataRetentionManager(_Security):
+    _icon = "sap-data-retention-manager.png"
+
+
+class SAPDataRetentionManager_Circled(_Security):
+    _icon = "sap-data-retention-manager_circled.png"
+
+
+class SAPPersonalDataManager(_Security):
+    _icon = "sap-personal-data-manager.png"
+
+
+class SAPPersonalDataManager_Circled(_Security):
+    _icon = "sap-personal-data-manager_circled.png"
 
 
 # Aliases
