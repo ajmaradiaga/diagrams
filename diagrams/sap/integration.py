@@ -48,14 +48,6 @@ class CloudIntegrationForDataServices_Circled(_Integration):
     _icon = "cloud-integration-for-data-services_circled.png"
 
 
-class EventBrokerAkaEventMesh(_Integration):
-    _icon = "event-broker-aka-event-mesh.png"
-
-
-class EventBrokerAkaEventMesh_Circled(_Integration):
-    _icon = "event-broker-aka-event-mesh_circled.png"
-
-
 class EventMesh(_Integration):
     _icon = "event-mesh.png"
 
@@ -118,6 +110,14 @@ class SAPDocumentAndReportingCompliance(_Integration):
 
 class SAPDocumentAndReportingCompliance_Circled(_Integration):
     _icon = "sap-document-and-reporting-compliance_circled.png"
+
+
+class SAPEventBroker(_Integration):
+    _icon = "sap-event-broker.png"
+
+
+class SAPEventBroker_Circled(_Integration):
+    _icon = "sap-event-broker_circled.png"
 
 
 class SAPGraph(_Integration):

@@ -713,12 +713,6 @@ Node classes list of sap provider.
 <img width="30" src="/img/resources/sap/integration/cloud-integration-for-data-services_circled.png" alt="CloudIntegrationForDataServices_Circled" style="float: left; padding-right: 5px;" >
 **diagrams.sap.integration.CloudIntegrationForDataServices_Circled**
 
-<img width="30" src="/img/resources/sap/integration/event-broker-aka-event-mesh.png" alt="EventBrokerAkaEventMesh" style="float: left; padding-right: 5px;" >
-**diagrams.sap.integration.EventBrokerAkaEventMesh**
-
-<img width="30" src="/img/resources/sap/integration/event-broker-aka-event-mesh_circled.png" alt="EventBrokerAkaEventMesh_Circled" style="float: left; padding-right: 5px;" >
-**diagrams.sap.integration.EventBrokerAkaEventMesh_Circled**
-
 <img width="30" src="/img/resources/sap/integration/event-mesh.png" alt="EventMesh" style="float: left; padding-right: 5px;" >
 **diagrams.sap.integration.EventMesh**
 
@@ -766,6 +760,12 @@ Node classes list of sap provider.
 
 <img width="30" src="/img/resources/sap/integration/sap-document-and-reporting-compliance_circled.png" alt="SAPDocumentAndReportingCompliance_Circled" style="float: left; padding-right: 5px;" >
 **diagrams.sap.integration.SAPDocumentAndReportingCompliance_Circled**
+
+<img width="30" src="/img/resources/sap/integration/sap-event-broker.png" alt="SAPEventBroker" style="float: left; padding-right: 5px;" >
+**diagrams.sap.integration.SAPEventBroker**
+
+<img width="30" src="/img/resources/sap/integration/sap-event-broker_circled.png" alt="SAPEventBroker_Circled" style="float: left; padding-right: 5px;" >
+**diagrams.sap.integration.SAPEventBroker_Circled**
 
 <img width="30" src="/img/resources/sap/integration/sap-graph.png" alt="SAPGraph" style="float: left; padding-right: 5px;" >
 **diagrams.sap.integration.SAPGraph**
