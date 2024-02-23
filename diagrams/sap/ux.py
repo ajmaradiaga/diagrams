@@ -12,52 +12,24 @@ class CloudPortalService(_Ux):
     _icon = "cloud-portal-service.png"
 
 
-class CloudPortalService_Circled(_Ux):
-    _icon = "cloud-portal-service_circled.png"
-
-
 class DocumentManagementServiceApplication(_Ux):
     _icon = "document-management-service-application.png"
-
-
-class DocumentManagementServiceApplication_Circled(_Ux):
-    _icon = "document-management-service-application_circled.png"
-
-
-class FormsByAdobe(_Ux):
-    _icon = "forms-by-adobe.png"
 
 
 class LaunchpadService(_Ux):
     _icon = "launchpad-service.png"
 
 
-class LaunchpadService_Circled(_Ux):
-    _icon = "launchpad-service_circled.png"
-
-
 class SAPBuildWorkZoneAdvancedEdition(_Ux):
     _icon = "sap-build-work-zone-advanced-edition.png"
 
 
-class SAPBuildWorkZoneAdvancedEdition_Circled(_Ux):
-    _icon = "sap-build-work-zone-advanced-edition_circled.png"
-
-
-class SAPBuildWorkZone(_Ux):
-    _icon = "sap-build-work-zone.png"
-
-
-class SAPBuildWorkZone_Circled(_Ux):
-    _icon = "sap-build-work-zone_circled.png"
+class SAPBuildWorkZoneStandardEdition(_Ux):
+    _icon = "sap-build-work-zone-standard-edition.png"
 
 
 class SAPTaskCenter(_Ux):
     _icon = "sap-task-center.png"
-
-
-class SAPTaskCenter_Circled(_Ux):
-    _icon = "sap-task-center_circled.png"
 
 
 # Aliases

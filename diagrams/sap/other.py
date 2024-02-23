@@ -12,52 +12,24 @@ class DateAndTime(_Other):
     _icon = "date-and-time.png"
 
 
-class DateAndTime_Circled(_Other):
-    _icon = "date-and-time_circled.png"
-
-
 class IbanService(_Other):
     _icon = "iban-service.png"
 
 
-class IbanService_Circled(_Other):
-    _icon = "iban-service_circled.png"
-
-
-class PlaceholderNewServices(_Other):
-    _icon = "placeholder-new-services.png"
-
-
-class PlaceholderNewServices_Circled(_Other):
-    _icon = "placeholder-new-services_circled.png"
+class PlaceholderServiceName(_Other):
+    _icon = "placeholder-service-name.png"
 
 
 class PrintService(_Other):
     _icon = "print-service.png"
 
 
-class PrintService_Circled(_Other):
-    _icon = "print-service_circled.png"
-
-
-class SAPBTP(_Other):
-    _icon = "sap-btp.png"
-
-
 class SAPIot(_Other):
     _icon = "sap-iot.png"
 
 
-class SAPIot_Circled(_Other):
-    _icon = "sap-iot_circled.png"
-
-
 class WorkCalendar(_Other):
     _icon = "work-calendar.png"
-
-
-class WorkCalendar_Circled(_Other):
-    _icon = "work-calendar_circled.png"
 
 
 # Aliases

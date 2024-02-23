@@ -12,120 +12,36 @@ class AdvancedEventMesh(_Integration):
     _icon = "advanced-event-mesh.png"
 
 
-class AdvancedEventMesh_Circled(_Integration):
-    _icon = "advanced-event-mesh_circled.png"
-
-
-class APIManagement(_Integration):
-    _icon = "api-management.png"
-
-
-class APIManagement_Circle(_Integration):
-    _icon = "api-management_circle.png"
-
-
-class CloudConnector(_Integration):
-    _icon = "cloud-connector.png"
-
-
-class CloudConnector_Circle(_Integration):
-    _icon = "cloud-connector_circle.png"
-
-
 class CloudIntegrationAutomation(_Integration):
     _icon = "cloud-integration-automation.png"
-
-
-class CloudIntegrationAutomation_Circled(_Integration):
-    _icon = "cloud-integration-automation_circled.png"
 
 
 class CloudIntegrationForDataServices(_Integration):
     _icon = "cloud-integration-for-data-services.png"
 
 
-class CloudIntegrationForDataServices_Circled(_Integration):
-    _icon = "cloud-integration-for-data-services_circled.png"
-
-
 class EventMesh(_Integration):
     _icon = "event-mesh.png"
-
-
-class EventMesh_Circle(_Integration):
-    _icon = "event-mesh_circle.png"
-
-
-class EventMesh_Circled(_Integration):
-    _icon = "event-mesh_circled.png"
-
-
-class IntegrationAdvisor(_Integration):
-    _icon = "integration-advisor.png"
-
-
-class IntegrationAdvisor_Circle(_Integration):
-    _icon = "integration-advisor_circle.png"
 
 
 class IntegrationSuite(_Integration):
     _icon = "integration-suite.png"
 
 
-class IntegrationSuite_Circle(_Integration):
-    _icon = "integration-suite_circle.png"
-
-
-class IntegrationSuite_Circled(_Integration):
-    _icon = "integration-suite_circled.png"
-
-
 class MasterDataIntegration(_Integration):
     _icon = "master-data-integration.png"
-
-
-class MasterDataIntegration_Circled(_Integration):
-    _icon = "master-data-integration_circled.png"
-
-
-class OpenConnectors(_Integration):
-    _icon = "open-connectors.png"
-
-
-class OpenConnectors_Circle(_Integration):
-    _icon = "open-connectors_circle.png"
-
-
-class SAPDataProvisioningAgent(_Integration):
-    _icon = "sap-data-provisioning-agent.png"
-
-
-class SAPDataProvisioningAgent_Circle(_Integration):
-    _icon = "sap-data-provisioning-agent_circle.png"
 
 
 class SAPDocumentAndReportingCompliance(_Integration):
     _icon = "sap-document-and-reporting-compliance.png"
 
 
-class SAPDocumentAndReportingCompliance_Circled(_Integration):
-    _icon = "sap-document-and-reporting-compliance_circled.png"
-
-
 class SAPEventBroker(_Integration):
     _icon = "sap-event-broker.png"
 
 
-class SAPEventBroker_Circled(_Integration):
-    _icon = "sap-event-broker_circled.png"
-
-
 class SAPGraph(_Integration):
     _icon = "sap-graph.png"
-
-
-class SAPGraph_Circled(_Integration):
-    _icon = "sap-graph_circled.png"
 
 
 # Aliases

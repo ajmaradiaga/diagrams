@@ -12,64 +12,28 @@ class DataQualityServices(_Database_Datamanagement):
     _icon = "data-quality-services.png"
 
 
-class DataQualityServices_Circled(_Database_Datamanagement):
-    _icon = "data-quality-services_circled.png"
-
-
-class Mongodb(_Database_Datamanagement):
-    _icon = "mongodb.png"
-
-
-class Mongodb_Circle(_Database_Datamanagement):
-    _icon = "mongodb_circle.png"
+class MasterDataGovernance(_Database_Datamanagement):
+    _icon = "master-data-governance.png"
 
 
 class ObjectStore(_Database_Datamanagement):
     _icon = "object-store.png"
 
 
-class ObjectStore_Circled(_Database_Datamanagement):
-    _icon = "object-store_circled.png"
-
-
-class Postgresql(_Database_Datamanagement):
-    _icon = "postgresql.png"
-
-
-class Redis(_Database_Datamanagement):
-    _icon = "redis.png"
-
-
 class SAPHANACloud(_Database_Datamanagement):
     _icon = "sap-hana-cloud.png"
-
-
-class SAPHANACloud_Circled(_Database_Datamanagement):
-    _icon = "sap-hana-cloud_circled.png"
 
 
 class SAPHANAPersistenceServiceNeo(_Database_Datamanagement):
     _icon = "sap-hana-persistence-service-neo.png"
 
 
-class SAPHANAPersistenceServiceNeo_Circled(_Database_Datamanagement):
-    _icon = "sap-hana-persistence-service-neo_circled.png"
-
-
 class SAPHANASpatialServices(_Database_Datamanagement):
     _icon = "sap-hana-spatial-services.png"
 
 
-class SAPHANASpatialServices_Circled(_Database_Datamanagement):
-    _icon = "sap-hana-spatial-services_circled.png"
-
-
 class SAPPersistenceServiceAse(_Database_Datamanagement):
     _icon = "sap-persistence-service-ase.png"
-
-
-class SAPPersistenceServiceAse_Circled(_Database_Datamanagement):
-    _icon = "sap-persistence-service-ase_circled.png"
 
 
 # Aliases

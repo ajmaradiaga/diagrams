@@ -12,32 +12,20 @@ class AbapEnvironment(_Runtimes):
     _icon = "abap-environment.png"
 
 
-class AbapEnvironment_Circled(_Runtimes):
-    _icon = "abap-environment_circled.png"
+class AbapSolution(_Runtimes):
+    _icon = "abap-solution.png"
 
 
 class CloudFoundryRuntime(_Runtimes):
     _icon = "cloud-foundry-runtime.png"
 
 
-class CloudFoundryRuntime_Circled(_Runtimes):
-    _icon = "cloud-foundry-runtime_circled.png"
-
-
-class Html5ApplicationRepositoryService(_Runtimes):
-    _icon = "html5-application-repository-service.png"
-
-
-class Html5ApplicationRepositoryService_Circled(_Runtimes):
-    _icon = "html5-application-repository-service_circled.png"
+class Html5AppRepository(_Runtimes):
+    _icon = "html5-app-repository.png"
 
 
 class KymaRuntime(_Runtimes):
     _icon = "kyma-runtime.png"
-
-
-class KymaRuntime_Circled(_Runtimes):
-    _icon = "kyma-runtime_circled.png"
 
 
 # Aliases

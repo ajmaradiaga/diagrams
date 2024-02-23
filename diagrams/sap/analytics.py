@@ -12,32 +12,20 @@ class SAPAnalyticsCloudEmbeddedEdition(_Analytics):
     _icon = "sap-analytics-cloud-embedded-edition.png"
 
 
-class SAPAnalyticsCloudEmbeddedEdition_Circled(_Analytics):
-    _icon = "sap-analytics-cloud-embedded-edition_circled.png"
-
-
 class SAPAnalyticsCloud(_Analytics):
     _icon = "sap-analytics-cloud.png"
-
-
-class SAPAnalyticsCloud_Circled(_Analytics):
-    _icon = "sap-analytics-cloud_circled.png"
 
 
 class SAPDataIntelligence(_Analytics):
     _icon = "sap-data-intelligence.png"
 
 
-class SAPDataIntelligence_Circled(_Analytics):
-    _icon = "sap-data-intelligence_circled.png"
-
-
 class SAPDatasphere(_Analytics):
     _icon = "sap-datasphere.png"
 
 
-class SAPDatasphere_Circled(_Analytics):
-    _icon = "sap-datasphere_circled.png"
+class WebAnalytics(_Analytics):
+    _icon = "web-analytics.png"
 
 
 # Aliases

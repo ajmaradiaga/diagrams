@@ -12,32 +12,16 @@ class Bandwidth(_Connectivity):
     _icon = "bandwidth.png"
 
 
-class Bandwidth_Circled(_Connectivity):
-    _icon = "bandwidth_circled.png"
-
-
-class ConnectivityService(_Connectivity):
-    _icon = "connectivity-service.png"
-
-
-class ConnectivityService_Circled(_Connectivity):
-    _icon = "connectivity-service_circled.png"
+class Connectivity(_Connectivity):
+    _icon = "connectivity.png"
 
 
 class Destination(_Connectivity):
     _icon = "destination.png"
 
 
-class Destination_Circled(_Connectivity):
-    _icon = "destination_circled.png"
-
-
 class PrivateLinkService(_Connectivity):
     _icon = "private-link-service.png"
-
-
-class PrivateLinkService_Circled(_Connectivity):
-    _icon = "private-link-service_circled.png"
 
 
 # Aliases

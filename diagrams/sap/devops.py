@@ -8,104 +8,48 @@ class _Devops(_SAP):
     _icon_dir = "resources/sap/devops"
 
 
-class AlertNotification(_Devops):
-    _icon = "alert-notification.png"
-
-
-class AlertNotification_Circled(_Devops):
-    _icon = "alert-notification_circled.png"
-
-
 class AutomationPilot(_Devops):
     _icon = "automation-pilot.png"
 
 
-class AutomationPilot_Circled(_Devops):
-    _icon = "automation-pilot_circled.png"
+class CloudManagementService(_Devops):
+    _icon = "cloud-management-service.png"
 
 
-class CommInfraServiceCloudMgmt(_Devops):
-    _icon = "comm-infra-service-cloud-mgmt.png"
-
-
-class CommInfrastrServiceCloudMgmt_Circled(_Devops):
-    _icon = "comm-infrastr-service-cloud-mgmt_circled.png"
+class CloudTransportManagement(_Devops):
+    _icon = "cloud-transport-management.png"
 
 
 class ContentAgent(_Devops):
     _icon = "content-agent.png"
 
 
-class ContentAgent_Circled(_Devops):
-    _icon = "content-agent_circled.png"
-
-
 class ContinuousIntegrationAndDelivery(_Devops):
     _icon = "continuous-integration-and-delivery.png"
-
-
-class ContinuousIntegrationAndDelivery_Circled(_Devops):
-    _icon = "continuous-integration-and-delivery_circled.png"
-
-
-class Dynatrace(_Devops):
-    _icon = "dynatrace.png"
 
 
 class JobSchedulingService(_Devops):
     _icon = "job-scheduling-service.png"
 
 
-class JobSchedulingService_Circled(_Devops):
-    _icon = "job-scheduling-service_circled.png"
-
-
 class MonitoringService(_Devops):
     _icon = "monitoring-service.png"
-
-
-class MonitoringService_Circled(_Devops):
-    _icon = "monitoring-service_circled.png"
 
 
 class SAPCloudAlmMemoryExt(_Devops):
     _icon = "sap-cloud-alm-memory-ext.png"
 
 
-class SAPCloudAlmMemoryExt_Circled(_Devops):
-    _icon = "sap-cloud-alm-memory-ext_circled.png"
-
-
 class SAPLandscapeManagementCloud(_Devops):
     _icon = "sap-landscape-management-cloud.png"
-
-
-class SAPLandscapeManagementCloud_Circled(_Devops):
-    _icon = "sap-landscape-management-cloud_circled.png"
 
 
 class SAPSolutionLifecycleManagement(_Devops):
     _icon = "sap-solution-lifecycle-management.png"
 
 
-class SAPSolutionLifecycleManagement_Circled(_Devops):
-    _icon = "sap-solution-lifecycle-management_circled.png"
-
-
 class ServiceManager(_Devops):
     _icon = "service-manager.png"
-
-
-class ServiceManager_Circled(_Devops):
-    _icon = "service-manager_circled.png"
-
-
-class TransportManagement(_Devops):
-    _icon = "transport-management.png"
-
-
-class TransportManagement_Circle(_Devops):
-    _icon = "transport-management_circle.png"
 
 
 # Aliases

@@ -12,104 +12,44 @@ class AuditLogService(_Security):
     _icon = "audit-log-service.png"
 
 
-class AuditLogService_Circled(_Security):
-    _icon = "audit-log-service_circled.png"
-
-
 class AuthorizationAndTrustManagementService(_Security):
     _icon = "authorization-and-trust-management-service.png"
-
-
-class AuthorizationAndTrustManagementService_Circled(_Security):
-    _icon = "authorization-and-trust-management-service_circled.png"
 
 
 class CredentialStore(_Security):
     _icon = "credential-store.png"
 
 
-class CredentialStore_Circled(_Security):
-    _icon = "credential-store_circled.png"
-
-
 class CustomDomain(_Security):
     _icon = "custom-domain.png"
-
-
-class CustomDomain_Circled(_Security):
-    _icon = "custom-domain_circled.png"
 
 
 class DataPrivacyIntegration(_Security):
     _icon = "data-privacy-integration.png"
 
 
-class DataPrivacyIntegration_Circled(_Security):
-    _icon = "data-privacy-integration_circled.png"
-
-
-class IdentityAuthentication(_Security):
-    _icon = "identity-authentication.png"
-
-
-class IdentityAuthentication_Circled(_Security):
-    _icon = "identity-authentication_circled.png"
-
-
-class IdentityDirectory(_Security):
-    _icon = "identity-directory.png"
-
-
-class IdentityDirectory_Circled(_Security):
-    _icon = "identity-directory_circled.png"
-
-
 class IdentityProvisioning(_Security):
     _icon = "identity-provisioning.png"
-
-
-class IdentityProvisioning_Circled(_Security):
-    _icon = "identity-provisioning_circled.png"
 
 
 class KeystoreService(_Security):
     _icon = "keystore-service.png"
 
 
-class KeystoreService_Circled(_Security):
-    _icon = "keystore-service_circled.png"
-
-
-class MalwareScanningService(_Security):
-    _icon = "malware-scanning-service.png"
-
-
-class MalwareScanningService_Circled(_Security):
-    _icon = "malware-scanning-service_circled.png"
+class MalwareScanning(_Security):
+    _icon = "malware-scanning.png"
 
 
 class Oauth2Service(_Security):
     _icon = "oauth2-service.png"
 
 
-class Oauth2Service_Circled(_Security):
-    _icon = "oauth2-service_circled.png"
-
-
 class SAPDataRetentionManager(_Security):
     _icon = "sap-data-retention-manager.png"
 
 
-class SAPDataRetentionManager_Circled(_Security):
-    _icon = "sap-data-retention-manager_circled.png"
-
-
 class SAPPersonalDataManager(_Security):
     _icon = "sap-personal-data-manager.png"
-
-
-class SAPPersonalDataManager_Circled(_Security):
-    _icon = "sap-personal-data-manager_circled.png"
 
 
 # Aliases
