@@ -12,6 +12,10 @@ class AdvancedEventMesh(_Integration):
     _icon = "advanced-event-mesh.png"
 
 
+class APIManagement(_Integration):
+    _icon = "api-management.png"
+
+
 class CloudIntegrationAutomation(_Integration):
     _icon = "cloud-integration-automation.png"
 
@@ -20,8 +24,32 @@ class CloudIntegrationForDataServices(_Integration):
     _icon = "cloud-integration-for-data-services.png"
 
 
+class CloudIntegration(_Integration):
+    _icon = "cloud-integration.png"
+
+
+class DataSpaceIntegration(_Integration):
+    _icon = "data-space-integration.png"
+
+
+class EdgeIntegrationCell(_Integration):
+    _icon = "edge-integration-cell.png"
+
+
 class EventMesh(_Integration):
     _icon = "event-mesh.png"
+
+
+class Graph(_Integration):
+    _icon = "graph.png"
+
+
+class IntegrationAdvisor(_Integration):
+    _icon = "integration-advisor.png"
+
+
+class IntegrationAssessment(_Integration):
+    _icon = "integration-assessment.png"
 
 
 class IntegrationSuite(_Integration):
@@ -30,6 +58,22 @@ class IntegrationSuite(_Integration):
 
 class MasterDataIntegration(_Integration):
     _icon = "master-data-integration.png"
+
+
+class MigrationAssessment(_Integration):
+    _icon = "migration-assessment.png"
+
+
+class OpenConnectors(_Integration):
+    _icon = "open-connectors.png"
+
+
+class SAPAPIHubEnterprise(_Integration):
+    _icon = "sap-api-hub-enterprise.png"
+
+
+class SAPBusinessAcceleratorHub(_Integration):
+    _icon = "sap-business-accelerator-hub.png"
 
 
 class SAPDocumentAndReportingCompliance(_Integration):
@@ -42,6 +86,14 @@ class SAPEventBroker(_Integration):
 
 class SAPGraph(_Integration):
     _icon = "sap-graph.png"
+
+
+class SAPIntegrationSuite(_Integration):
+    _icon = "sap-integration-suite.png"
+
+
+class TradingPartnerManagement(_Integration):
+    _icon = "trading-partner-management.png"
 
 
 # Aliases

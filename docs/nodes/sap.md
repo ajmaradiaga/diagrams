@@ -3,7 +3,7 @@ id: sap
 title: SAP
 ---
 
-Node classes list of sap provider.
+Node classes list of the sap provider.
 
 ## sap.ai
 
@@ -545,20 +545,53 @@ Node classes list of sap provider.
 <img width="30" src="/img/resources/sap/integration/advanced-event-mesh.png" alt="AdvancedEventMesh" style="float: left; padding-right: 5px;" >
 **diagrams.sap.integration.AdvancedEventMesh**
 
+<img width="30" src="/img/resources/sap/integration/api-management.png" alt="APIManagement" style="float: left; padding-right: 5px;" >
+**diagrams.sap.integration.APIManagement**
+
 <img width="30" src="/img/resources/sap/integration/cloud-integration-automation.png" alt="CloudIntegrationAutomation" style="float: left; padding-right: 5px;" >
 **diagrams.sap.integration.CloudIntegrationAutomation**
 
 <img width="30" src="/img/resources/sap/integration/cloud-integration-for-data-services.png" alt="CloudIntegrationForDataServices" style="float: left; padding-right: 5px;" >
 **diagrams.sap.integration.CloudIntegrationForDataServices**
 
+<img width="30" src="/img/resources/sap/integration/cloud-integration.png" alt="CloudIntegration" style="float: left; padding-right: 5px;" >
+**diagrams.sap.integration.CloudIntegration**
+
+<img width="30" src="/img/resources/sap/integration/data-space-integration.png" alt="DataSpaceIntegration" style="float: left; padding-right: 5px;" >
+**diagrams.sap.integration.DataSpaceIntegration**
+
+<img width="30" src="/img/resources/sap/integration/edge-integration-cell.png" alt="EdgeIntegrationCell" style="float: left; padding-right: 5px;" >
+**diagrams.sap.integration.EdgeIntegrationCell**
+
 <img width="30" src="/img/resources/sap/integration/event-mesh.png" alt="EventMesh" style="float: left; padding-right: 5px;" >
 **diagrams.sap.integration.EventMesh**
+
+<img width="30" src="/img/resources/sap/integration/graph.png" alt="Graph" style="float: left; padding-right: 5px;" >
+**diagrams.sap.integration.Graph**
+
+<img width="30" src="/img/resources/sap/integration/integration-advisor.png" alt="IntegrationAdvisor" style="float: left; padding-right: 5px;" >
+**diagrams.sap.integration.IntegrationAdvisor**
+
+<img width="30" src="/img/resources/sap/integration/integration-assessment.png" alt="IntegrationAssessment" style="float: left; padding-right: 5px;" >
+**diagrams.sap.integration.IntegrationAssessment**
 
 <img width="30" src="/img/resources/sap/integration/integration-suite.png" alt="IntegrationSuite" style="float: left; padding-right: 5px;" >
 **diagrams.sap.integration.IntegrationSuite**
 
 <img width="30" src="/img/resources/sap/integration/master-data-integration.png" alt="MasterDataIntegration" style="float: left; padding-right: 5px;" >
 **diagrams.sap.integration.MasterDataIntegration**
+
+<img width="30" src="/img/resources/sap/integration/migration-assessment.png" alt="MigrationAssessment" style="float: left; padding-right: 5px;" >
+**diagrams.sap.integration.MigrationAssessment**
+
+<img width="30" src="/img/resources/sap/integration/open-connectors.png" alt="OpenConnectors" style="float: left; padding-right: 5px;" >
+**diagrams.sap.integration.OpenConnectors**
+
+<img width="30" src="/img/resources/sap/integration/sap-api-hub-enterprise.png" alt="SAPAPIHubEnterprise" style="float: left; padding-right: 5px;" >
+**diagrams.sap.integration.SAPAPIHubEnterprise**
+
+<img width="30" src="/img/resources/sap/integration/sap-business-accelerator-hub.png" alt="SAPBusinessAcceleratorHub" style="float: left; padding-right: 5px;" >
+**diagrams.sap.integration.SAPBusinessAcceleratorHub**
 
 <img width="30" src="/img/resources/sap/integration/sap-document-and-reporting-compliance.png" alt="SAPDocumentAndReportingCompliance" style="float: left; padding-right: 5px;" >
 **diagrams.sap.integration.SAPDocumentAndReportingCompliance**
@@ -568,6 +601,12 @@ Node classes list of sap provider.
 
 <img width="30" src="/img/resources/sap/integration/sap-graph.png" alt="SAPGraph" style="float: left; padding-right: 5px;" >
 **diagrams.sap.integration.SAPGraph**
+
+<img width="30" src="/img/resources/sap/integration/sap-integration-suite.png" alt="SAPIntegrationSuite" style="float: left; padding-right: 5px;" >
+**diagrams.sap.integration.SAPIntegrationSuite**
+
+<img width="30" src="/img/resources/sap/integration/trading-partner-management.png" alt="TradingPartnerManagement" style="float: left; padding-right: 5px;" >
+**diagrams.sap.integration.TradingPartnerManagement**
 
 ## sap.lob_industries
 
