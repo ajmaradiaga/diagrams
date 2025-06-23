@@ -1,5 +1,5 @@
 """
-SAP provides a set of services for SAP provider.
+SAP provides a set of services for SAP Business Technology Platform provider.
 """
 
 from diagrams import Node
@@ -10,3 +10,7 @@ class _SAP(Node):
     _icon_dir = "resources/sap"
 
     fontcolor = "#ffffff"
+
+
+class SAP(_SAP):
+    _icon = "sap.png"

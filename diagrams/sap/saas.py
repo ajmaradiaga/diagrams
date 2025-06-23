@@ -8,44 +8,80 @@ class _Saas(_SAP):
     _icon_dir = "resources/sap/saas"
 
 
-class SAPAribaBlack(_Saas):
-    _icon = "sap-ariba-black.png"
+class BusinessProcessModelConnectorForSAPSignavioSolutions(_Saas):
+    _icon = "business-process-model-connector-for-sap-signavio-solutions.png"
 
 
-class SAPAriba(_Saas):
-    _icon = "sap-ariba.png"
+class CustomerDataCloud(_Saas):
+    _icon = "customer-data-cloud.png"
 
 
-class SAPConcurBlack(_Saas):
-    _icon = "sap-concur-black.png"
+class IntelligentSituationAutomation(_Saas):
+    _icon = "intelligent-situation-automation.png"
 
 
-class SAPConcur(_Saas):
-    _icon = "sap-concur.png"
+class SAPAssetPerformanceManagement(_Saas):
+    _icon = "sap-asset-performance-management.png"
 
 
-class SAPFieldglassBlack(_Saas):
-    _icon = "sap-fieldglass-black.png"
+class SAPCloudAlm(_Saas):
+    _icon = "sap-cloud-alm.png"
 
 
-class SAPFieldglass(_Saas):
-    _icon = "sap-fieldglass.png"
+class SAPCollaborativeDemandAndCapacityManagement(_Saas):
+    _icon = "sap-collaborative-demand-and-capacity-management.png"
 
 
-class SAPHealthBlack(_Saas):
-    _icon = "sap-health-black.png"
+class SAPDigitalManufacturing(_Saas):
+    _icon = "sap-digital-manufacturing.png"
 
 
-class SAPHealth(_Saas):
-    _icon = "sap-health.png"
+class SAPGreenToken(_Saas):
+    _icon = "sap-green-token.png"
 
 
-class SAPSuccessfactorsBlack(_Saas):
-    _icon = "sap-successfactors-black.png"
+class SAPHealthDataServicesForFhir(_Saas):
+    _icon = "sap-health-data-services-for-fhir.png"
 
 
-class SAPSuccessfactors(_Saas):
-    _icon = "sap-successfactors.png"
+class SAPLandscapeManagementCloud(_Saas):
+    _icon = "sap-landscape-management-cloud.png"
+
+
+class SAPLogisticsManagement(_Saas):
+    _icon = "sap-logistics-management.png"
+
+
+class SAPOmnichannelPromotionPricing(_Saas):
+    _icon = "sap-omnichannel-promotion-pricing.png"
+
+
+class SAPProjectAndResourceManagement(_Saas):
+    _icon = "sap-project-and-resource-management.png"
+
+
+class SAPResponsibilityManagementService(_Saas):
+    _icon = "sap-responsibility-management-service.png"
+
+
+class SAPS4HANACloudForIntelligentIntercompanyReconciliation(_Saas):
+    _icon = "sap-s4hana-cloud-for-intelligent-intercompany-reconciliation.png"
+
+
+class SAPS4HANAForMicrosoftTeams(_Saas):
+    _icon = "sap-s4hana-for-microsoft-teams.png"
+
+
+class SAPSustainabilityDataExchange(_Saas):
+    _icon = "sap-sustainability-data-exchange.png"
+
+
+class SAPVariantConfigurationAndPricing(_Saas):
+    _icon = "sap-variant-configuration-and-pricing.png"
+
+
+class SAPWatchListScreening(_Saas):
+    _icon = "sap-watch-list-screening.png"
 
 
 # Aliases

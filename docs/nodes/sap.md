@@ -11,32 +11,26 @@ Node classes list of the sap provider.
 <img width="30" src="/img/resources/sap/ai/business-entity-recognition.png" alt="BusinessEntityRecognition" style="float: left; padding-right: 5px;" >
 **diagrams.sap.ai.BusinessEntityRecognition**
 
-<img width="30" src="/img/resources/sap/ai/conversational-ai.png" alt="ConversationalAi" style="float: left; padding-right: 5px;" >
-**diagrams.sap.ai.ConversationalAi**
-
 <img width="30" src="/img/resources/sap/ai/data-attribute-recommendation.png" alt="DataAttributeRecommendation" style="float: left; padding-right: 5px;" >
 **diagrams.sap.ai.DataAttributeRecommendation**
-
-<img width="30" src="/img/resources/sap/ai/document-classification.png" alt="DocumentClassification" style="float: left; padding-right: 5px;" >
-**diagrams.sap.ai.DocumentClassification**
 
 <img width="30" src="/img/resources/sap/ai/document-information-extraction.png" alt="DocumentInformationExtraction" style="float: left; padding-right: 5px;" >
 **diagrams.sap.ai.DocumentInformationExtraction**
 
-<img width="30" src="/img/resources/sap/ai/invoice-recommendation.png" alt="InvoiceRecommendation" style="float: left; padding-right: 5px;" >
-**diagrams.sap.ai.InvoiceRecommendation**
+<img width="30" src="/img/resources/sap/ai/invoice-object-recommendation.png" alt="InvoiceObjectRecommendation" style="float: left; padding-right: 5px;" >
+**diagrams.sap.ai.InvoiceObjectRecommendation**
 
 <img width="30" src="/img/resources/sap/ai/personalized-recommendation.png" alt="PersonalizedRecommendation" style="float: left; padding-right: 5px;" >
 **diagrams.sap.ai.PersonalizedRecommendation**
 
-<img width="30" src="/img/resources/sap/ai/sap-ai-launchpad.png" alt="SAPAiLaunchpad" style="float: left; padding-right: 5px;" >
-**diagrams.sap.ai.SAPAiLaunchpad**
+<img width="30" src="/img/resources/sap/ai/sap-ai-launchpad.png" alt="SAPAILaunchpad" style="float: left; padding-right: 5px;" >
+**diagrams.sap.ai.SAPAILaunchpad**
 
-<img width="30" src="/img/resources/sap/ai/sap-digital-assistant-service.png" alt="SAPDigitalAssistantService" style="float: left; padding-right: 5px;" >
-**diagrams.sap.ai.SAPDigitalAssistantService**
+<img width="30" src="/img/resources/sap/ai/sap-digital-assistant.png" alt="SAPDigitalAssistant" style="float: left; padding-right: 5px;" >
+**diagrams.sap.ai.SAPDigitalAssistant**
 
-<img width="30" src="/img/resources/sap/ai/sap-document-translation.png" alt="SAPDocumentTranslation" style="float: left; padding-right: 5px;" >
-**diagrams.sap.ai.SAPDocumentTranslation**
+<img width="30" src="/img/resources/sap/ai/sap-document-grounding.png" alt="SAPDocumentGrounding" style="float: left; padding-right: 5px;" >
+**diagrams.sap.ai.SAPDocumentGrounding**
 
 <img width="30" src="/img/resources/sap/ai/sap-translation-hub.png" alt="SAPTranslationHub" style="float: left; padding-right: 5px;" >
 **diagrams.sap.ai.SAPTranslationHub**
@@ -44,737 +38,728 @@ Node classes list of the sap provider.
 <img width="30" src="/img/resources/sap/ai/service-ticket-intelligence.png" alt="ServiceTicketIntelligence" style="float: left; padding-right: 5px;" >
 **diagrams.sap.ai.ServiceTicketIntelligence**
 
-## sap.analytics
+## sap.app_dev_automation
 
 
-<img width="30" src="/img/resources/sap/analytics/sap-analytics-cloud-embedded-edition.png" alt="SAPAnalyticsCloudEmbeddedEdition" style="float: left; padding-right: 5px;" >
-**diagrams.sap.analytics.SAPAnalyticsCloudEmbeddedEdition**
+<img width="30" src="/img/resources/sap/app_dev_automation/application-frontend-service.png" alt="ApplicationFrontendService" style="float: left; padding-right: 5px;" >
+**diagrams.sap.app_dev_automation.ApplicationFrontendService**
 
-<img width="30" src="/img/resources/sap/analytics/sap-analytics-cloud.png" alt="SAPAnalyticsCloud" style="float: left; padding-right: 5px;" >
-**diagrams.sap.analytics.SAPAnalyticsCloud**
+<img width="30" src="/img/resources/sap/app_dev_automation/extensibility-service-for-sap-btp.png" alt="ExtensibilityServiceForSAPBTP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.app_dev_automation.ExtensibilityServiceForSAPBTP**
 
-<img width="30" src="/img/resources/sap/analytics/sap-data-intelligence.png" alt="SAPDataIntelligence" style="float: left; padding-right: 5px;" >
-**diagrams.sap.analytics.SAPDataIntelligence**
+<img width="30" src="/img/resources/sap/app_dev_automation/joule_studio.png" alt="Joule_Studio" style="float: left; padding-right: 5px;" >
+**diagrams.sap.app_dev_automation.Joule_Studio**
 
-<img width="30" src="/img/resources/sap/analytics/sap-datasphere.png" alt="SAPDatasphere" style="float: left; padding-right: 5px;" >
-**diagrams.sap.analytics.SAPDatasphere**
+<img width="30" src="/img/resources/sap/app_dev_automation/sap-btp_abap-environment.png" alt="SAPBtp_AbapEnvironment" style="float: left; padding-right: 5px;" >
+**diagrams.sap.app_dev_automation.SAPBtp_AbapEnvironment**
 
-<img width="30" src="/img/resources/sap/analytics/web-analytics.png" alt="WebAnalytics" style="float: left; padding-right: 5px;" >
-**diagrams.sap.analytics.WebAnalytics**
+<img width="30" src="/img/resources/sap/app_dev_automation/sap-build-apps.png" alt="SAPBuildApps" style="float: left; padding-right: 5px;" >
+**diagrams.sap.app_dev_automation.SAPBuildApps**
 
-## sap.connectivity
+<img width="30" src="/img/resources/sap/app_dev_automation/sap-build-code.png" alt="SAPBuildCode" style="float: left; padding-right: 5px;" >
+**diagrams.sap.app_dev_automation.SAPBuildCode**
 
+<img width="30" src="/img/resources/sap/app_dev_automation/sap-build-process-automation.png" alt="SAPBuildProcessAutomation" style="float: left; padding-right: 5px;" >
+**diagrams.sap.app_dev_automation.SAPBuildProcessAutomation**
 
-<img width="30" src="/img/resources/sap/connectivity/bandwidth.png" alt="Bandwidth" style="float: left; padding-right: 5px;" >
-**diagrams.sap.connectivity.Bandwidth**
+<img width="30" src="/img/resources/sap/app_dev_automation/sap-build-work-zone.png" alt="SAPBuildWorkZone" style="float: left; padding-right: 5px;" >
+**diagrams.sap.app_dev_automation.SAPBuildWorkZone**
 
-<img width="30" src="/img/resources/sap/connectivity/connectivity.png" alt="Connectivity" style="float: left; padding-right: 5px;" >
-**diagrams.sap.connectivity.Connectivity**
+<img width="30" src="/img/resources/sap/app_dev_automation/sap-build-work-zone_advanced-edition.png" alt="SAPBuildWorkZone_AdvancedEdition" style="float: left; padding-right: 5px;" >
+**diagrams.sap.app_dev_automation.SAPBuildWorkZone_AdvancedEdition**
 
-<img width="30" src="/img/resources/sap/connectivity/destination.png" alt="Destination" style="float: left; padding-right: 5px;" >
-**diagrams.sap.connectivity.Destination**
+<img width="30" src="/img/resources/sap/app_dev_automation/sap-build.png" alt="SAPBuild" style="float: left; padding-right: 5px;" >
+**diagrams.sap.app_dev_automation.SAPBuild**
 
-<img width="30" src="/img/resources/sap/connectivity/private-link-service.png" alt="PrivateLinkService" style="float: left; padding-right: 5px;" >
-**diagrams.sap.connectivity.PrivateLinkService**
+<img width="30" src="/img/resources/sap/app_dev_automation/sap-business-application-studio.png" alt="SAPBusinessApplicationStudio" style="float: left; padding-right: 5px;" >
+**diagrams.sap.app_dev_automation.SAPBusinessApplicationStudio**
 
-## sap.database_datamanagement
+<img width="30" src="/img/resources/sap/app_dev_automation/sap-cloud-application-programming-model.png" alt="SAPCloudApplicationProgrammingModel" style="float: left; padding-right: 5px;" >
+**diagrams.sap.app_dev_automation.SAPCloudApplicationProgrammingModel**
 
+<img width="30" src="/img/resources/sap/app_dev_automation/sap-html5-application-repository-service-for-sap-btp.png" alt="SAPHtml5ApplicationRepositoryServiceForSAPBTP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.app_dev_automation.SAPHtml5ApplicationRepositoryServiceForSAPBTP**
 
-<img width="30" src="/img/resources/sap/database_datamanagement/data-quality-services.png" alt="DataQualityServices" style="float: left; padding-right: 5px;" >
-**diagrams.sap.database_datamanagement.DataQualityServices**
+<img width="30" src="/img/resources/sap/app_dev_automation/sap-mobile-services.png" alt="SAPMobileServices" style="float: left; padding-right: 5px;" >
+**diagrams.sap.app_dev_automation.SAPMobileServices**
 
-<img width="30" src="/img/resources/sap/database_datamanagement/master-data-governance.png" alt="MasterDataGovernance" style="float: left; padding-right: 5px;" >
-**diagrams.sap.database_datamanagement.MasterDataGovernance**
+<img width="30" src="/img/resources/sap/app_dev_automation/sap-task-center.png" alt="SAPTaskCenter" style="float: left; padding-right: 5px;" >
+**diagrams.sap.app_dev_automation.SAPTaskCenter**
 
-<img width="30" src="/img/resources/sap/database_datamanagement/object-store.png" alt="ObjectStore" style="float: left; padding-right: 5px;" >
-**diagrams.sap.database_datamanagement.ObjectStore**
+<img width="30" src="/img/resources/sap/app_dev_automation/sap-ui-theme-designer.png" alt="SAPUiThemeDesigner" style="float: left; padding-right: 5px;" >
+**diagrams.sap.app_dev_automation.SAPUiThemeDesigner**
 
-<img width="30" src="/img/resources/sap/database_datamanagement/sap-hana-cloud.png" alt="SAPHANACloud" style="float: left; padding-right: 5px;" >
-**diagrams.sap.database_datamanagement.SAPHANACloud**
+<img width="30" src="/img/resources/sap/app_dev_automation/ui5-flexibility-for-key-users.png" alt="Ui5FlexibilityForKeyUsers" style="float: left; padding-right: 5px;" >
+**diagrams.sap.app_dev_automation.Ui5FlexibilityForKeyUsers**
 
-<img width="30" src="/img/resources/sap/database_datamanagement/sap-hana-persistence-service-neo.png" alt="SAPHANAPersistenceServiceNeo" style="float: left; padding-right: 5px;" >
-**diagrams.sap.database_datamanagement.SAPHANAPersistenceServiceNeo**
-
-<img width="30" src="/img/resources/sap/database_datamanagement/sap-hana-spatial-services.png" alt="SAPHANASpatialServices" style="float: left; padding-right: 5px;" >
-**diagrams.sap.database_datamanagement.SAPHANASpatialServices**
-
-<img width="30" src="/img/resources/sap/database_datamanagement/sap-persistence-service-ase.png" alt="SAPPersistenceServiceAse" style="float: left; padding-right: 5px;" >
-**diagrams.sap.database_datamanagement.SAPPersistenceServiceAse**
-
-## sap.development
+## sap.brands
 
 
-<img width="30" src="/img/resources/sap/development/application-autoscaler.png" alt="ApplicationAutoscaler" style="float: left; padding-right: 5px;" >
-**diagrams.sap.development.ApplicationAutoscaler**
+<img width="30" src="/img/resources/sap/brands/sap-ariba.png" alt="SAPAriba" style="float: left; padding-right: 5px;" >
+**diagrams.sap.brands.SAPAriba**
 
-<img width="30" src="/img/resources/sap/development/application-logging.png" alt="ApplicationLogging" style="float: left; padding-right: 5px;" >
-**diagrams.sap.development.ApplicationLogging**
+<img width="30" src="/img/resources/sap/brands/sap-business-network.png" alt="SAPBusinessNetwork" style="float: left; padding-right: 5px;" >
+**diagrams.sap.brands.SAPBusinessNetwork**
 
-<img width="30" src="/img/resources/sap/development/business-application-studio.png" alt="BusinessApplicationStudio" style="float: left; padding-right: 5px;" >
-**diagrams.sap.development.BusinessApplicationStudio**
+<img width="30" src="/img/resources/sap/brands/sap-concur.png" alt="SAPConcur" style="float: left; padding-right: 5px;" >
+**diagrams.sap.brands.SAPConcur**
 
-<img width="30" src="/img/resources/sap/development/feature-flags-service.png" alt="FeatureFlagsService" style="float: left; padding-right: 5px;" >
-**diagrams.sap.development.FeatureFlagsService**
+<img width="30" src="/img/resources/sap/brands/sap-customer-experience.png" alt="SAPCustomerExperience" style="float: left; padding-right: 5px;" >
+**diagrams.sap.brands.SAPCustomerExperience**
 
-<img width="30" src="/img/resources/sap/development/rapid-application-development-by-mendix.png" alt="RapidApplicationDevelopmentByMendix" style="float: left; padding-right: 5px;" >
-**diagrams.sap.development.RapidApplicationDevelopmentByMendix**
+<img width="30" src="/img/resources/sap/brands/sap-leanix.png" alt="SAPLeanix" style="float: left; padding-right: 5px;" >
+**diagrams.sap.brands.SAPLeanix**
 
-<img width="30" src="/img/resources/sap/development/saas-provisioning-service.png" alt="SaasProvisioningService" style="float: left; padding-right: 5px;" >
-**diagrams.sap.development.SaasProvisioningService**
+<img width="30" src="/img/resources/sap/brands/sap-s4hana-cloud.png" alt="SAPS4HANACloud" style="float: left; padding-right: 5px;" >
+**diagrams.sap.brands.SAPS4HANACloud**
 
-<img width="30" src="/img/resources/sap/development/sap-build-apps.png" alt="SAPBuildApps" style="float: left; padding-right: 5px;" >
-**diagrams.sap.development.SAPBuildApps**
+<img width="30" src="/img/resources/sap/brands/sap-s4hana.png" alt="SAPS4HANA" style="float: left; padding-right: 5px;" >
+**diagrams.sap.brands.SAPS4HANA**
 
-<img width="30" src="/img/resources/sap/development/sap-build-code.png" alt="SAPBuildCode" style="float: left; padding-right: 5px;" >
-**diagrams.sap.development.SAPBuildCode**
+<img width="30" src="/img/resources/sap/brands/sap-signavio.png" alt="SAPSignavio" style="float: left; padding-right: 5px;" >
+**diagrams.sap.brands.SAPSignavio**
 
-<img width="30" src="/img/resources/sap/development/ui5-flexibility-for-key-users.png" alt="Ui5FlexibilityForKeyUsers" style="float: left; padding-right: 5px;" >
-**diagrams.sap.development.Ui5FlexibilityForKeyUsers**
+<img width="30" src="/img/resources/sap/brands/sap-successfactors.png" alt="SAPSuccessfactors" style="float: left; padding-right: 5px;" >
+**diagrams.sap.brands.SAPSuccessfactors**
 
-<img width="30" src="/img/resources/sap/development/usage-data-management.png" alt="UsageDataManagement" style="float: left; padding-right: 5px;" >
-**diagrams.sap.development.UsageDataManagement**
+<img width="30" src="/img/resources/sap/brands/sap.png" alt="SAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.brands.SAP**
 
-## sap.devops
-
-
-<img width="30" src="/img/resources/sap/devops/automation-pilot.png" alt="AutomationPilot" style="float: left; padding-right: 5px;" >
-**diagrams.sap.devops.AutomationPilot**
-
-<img width="30" src="/img/resources/sap/devops/cloud-management-service.png" alt="CloudManagementService" style="float: left; padding-right: 5px;" >
-**diagrams.sap.devops.CloudManagementService**
-
-<img width="30" src="/img/resources/sap/devops/cloud-transport-management.png" alt="CloudTransportManagement" style="float: left; padding-right: 5px;" >
-**diagrams.sap.devops.CloudTransportManagement**
-
-<img width="30" src="/img/resources/sap/devops/content-agent.png" alt="ContentAgent" style="float: left; padding-right: 5px;" >
-**diagrams.sap.devops.ContentAgent**
-
-<img width="30" src="/img/resources/sap/devops/continuous-integration-and-delivery.png" alt="ContinuousIntegrationAndDelivery" style="float: left; padding-right: 5px;" >
-**diagrams.sap.devops.ContinuousIntegrationAndDelivery**
-
-<img width="30" src="/img/resources/sap/devops/job-scheduling-service.png" alt="JobSchedulingService" style="float: left; padding-right: 5px;" >
-**diagrams.sap.devops.JobSchedulingService**
-
-<img width="30" src="/img/resources/sap/devops/monitoring-service.png" alt="MonitoringService" style="float: left; padding-right: 5px;" >
-**diagrams.sap.devops.MonitoringService**
-
-<img width="30" src="/img/resources/sap/devops/sap-cloud-alm-memory-ext.png" alt="SAPCloudAlmMemoryExt" style="float: left; padding-right: 5px;" >
-**diagrams.sap.devops.SAPCloudAlmMemoryExt**
-
-<img width="30" src="/img/resources/sap/devops/sap-landscape-management-cloud.png" alt="SAPLandscapeManagementCloud" style="float: left; padding-right: 5px;" >
-**diagrams.sap.devops.SAPLandscapeManagementCloud**
-
-<img width="30" src="/img/resources/sap/devops/sap-solution-lifecycle-management.png" alt="SAPSolutionLifecycleManagement" style="float: left; padding-right: 5px;" >
-**diagrams.sap.devops.SAPSolutionLifecycleManagement**
-
-<img width="30" src="/img/resources/sap/devops/service-manager.png" alt="ServiceManager" style="float: left; padding-right: 5px;" >
-**diagrams.sap.devops.ServiceManager**
-
-## sap.erp
+## sap.data_analytics
 
 
-<img width="30" src="/img/resources/sap/erp/sap-s4hana-cloud.png" alt="SAPS4HANACloud" style="float: left; padding-right: 5px;" >
-**diagrams.sap.erp.SAPS4HANACloud**
+<img width="30" src="/img/resources/sap/data_analytics/sap-analytics-cloud-embedded-edition.png" alt="SAPAnalyticsCloudEmbeddedEdition" style="float: left; padding-right: 5px;" >
+**diagrams.sap.data_analytics.SAPAnalyticsCloudEmbeddedEdition**
 
-<img width="30" src="/img/resources/sap/erp/sap-s4hana.png" alt="SAPS4HANA" style="float: left; padding-right: 5px;" >
-**diagrams.sap.erp.SAPS4HANA**
+<img width="30" src="/img/resources/sap/data_analytics/sap-analytics-cloud.png" alt="SAPAnalyticsCloud" style="float: left; padding-right: 5px;" >
+**diagrams.sap.data_analytics.SAPAnalyticsCloud**
 
-## sap.extensions
+<img width="30" src="/img/resources/sap/data_analytics/sap-business-data-cloud.png" alt="SAPBusinessDataCloud" style="float: left; padding-right: 5px;" >
+**diagrams.sap.data_analytics.SAPBusinessDataCloud**
+
+<img width="30" src="/img/resources/sap/data_analytics/sap-datasphere.png" alt="SAPDatasphere" style="float: left; padding-right: 5px;" >
+**diagrams.sap.data_analytics.SAPDatasphere**
+
+<img width="30" src="/img/resources/sap/data_analytics/sap-hana-cloud.png" alt="SAPHANACloud" style="float: left; padding-right: 5px;" >
+**diagrams.sap.data_analytics.SAPHANACloud**
+
+<img width="30" src="/img/resources/sap/data_analytics/sap-hana-spatial-services.png" alt="SAPHANASpatialServices" style="float: left; padding-right: 5px;" >
+**diagrams.sap.data_analytics.SAPHANASpatialServices**
+
+<img width="30" src="/img/resources/sap/data_analytics/sap-master-data-governance.png" alt="SAPMasterDataGovernance" style="float: left; padding-right: 5px;" >
+**diagrams.sap.data_analytics.SAPMasterDataGovernance**
+
+<img width="30" src="/img/resources/sap/data_analytics/sap-persistence-service-ase.png" alt="SAPPersistenceServiceAse" style="float: left; padding-right: 5px;" >
+**diagrams.sap.data_analytics.SAPPersistenceServiceAse**
+
+## sap.foundational
 
 
-<img width="30" src="/img/resources/sap/erp/extensions/intelligent-intercompany-reconciliation.png" alt="IntelligentIntercompanyReconciliation" style="float: left; padding-right: 5px;" >
-**diagrams.sap.extensions.IntelligentIntercompanyReconciliation**
+<img width="30" src="/img/resources/sap/foundational/application-autoscaler.png" alt="ApplicationAutoscaler" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.ApplicationAutoscaler**
 
-<img width="30" src="/img/resources/sap/erp/extensions/intelligent-intercompany-reconciliation_circled.png" alt="IntelligentIntercompanyReconciliation_Circled" style="float: left; padding-right: 5px;" >
-**diagrams.sap.extensions.IntelligentIntercompanyReconciliation_Circled**
+<img width="30" src="/img/resources/sap/foundational/cloud-connector.png" alt="CloudConnector" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.CloudConnector**
 
-<img width="30" src="/img/resources/sap/erp/extensions/intelligent-situation-automation.png" alt="IntelligentSituationAutomation" style="float: left; padding-right: 5px;" >
-**diagrams.sap.extensions.IntelligentSituationAutomation**
+<img width="30" src="/img/resources/sap/foundational/cloud-integration-automation.png" alt="CloudIntegrationAutomation" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.CloudIntegrationAutomation**
 
-<img width="30" src="/img/resources/sap/erp/extensions/intelligent-situation-automation_circled.png" alt="IntelligentSituationAutomation_Circled" style="float: left; padding-right: 5px;" >
-**diagrams.sap.extensions.IntelligentSituationAutomation_Circled**
+<img width="30" src="/img/resources/sap/foundational/cloud-logging.png" alt="CloudLogging" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.CloudLogging**
 
-<img width="30" src="/img/resources/sap/erp/extensions/responsibility-management-service.png" alt="ResponsibilityManagementService" style="float: left; padding-right: 5px;" >
-**diagrams.sap.extensions.ResponsibilityManagementService**
+<img width="30" src="/img/resources/sap/foundational/landscape-portal-for-sap-s4hana-cloud-abap-environment.png" alt="LandscapePortalForSAPS4HANACloudAbapEnvironment" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.LandscapePortalForSAPS4HANACloudAbapEnvironment**
 
-<img width="30" src="/img/resources/sap/erp/extensions/responsibility-management-service_circled.png" alt="ResponsibilityManagementService_Circled" style="float: left; padding-right: 5px;" >
-**diagrams.sap.extensions.ResponsibilityManagementService_Circled**
+<img width="30" src="/img/resources/sap/foundational/oauth-20-on-sap-btp.png" alt="Oauth20OnSAPBTP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.Oauth20OnSAPBTP**
+
+<img width="30" src="/img/resources/sap/foundational/object-store-on-sap-btp.png" alt="ObjectStoreOnSAPBTP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.ObjectStoreOnSAPBTP**
+
+<img width="30" src="/img/resources/sap/foundational/sap-alert-notification-service-for-sap-btp.png" alt="SAPAlertNotificationServiceForSAPBTP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.SAPAlertNotificationServiceForSAPBTP**
+
+<img width="30" src="/img/resources/sap/foundational/sap-application-logging-service-for-sap-btp.png" alt="SAPApplicationLoggingServiceForSAPBTP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.SAPApplicationLoggingServiceForSAPBTP**
+
+<img width="30" src="/img/resources/sap/foundational/sap-audit-log-service.png" alt="SAPAuditLogService" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.SAPAuditLogService**
+
+<img width="30" src="/img/resources/sap/foundational/sap-authorization-management.png" alt="SAPAuthorizationManagement" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.SAPAuthorizationManagement**
+
+<img width="30" src="/img/resources/sap/foundational/sap-automation-pilot.png" alt="SAPAutomationPilot" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.SAPAutomationPilot**
+
+<img width="30" src="/img/resources/sap/foundational/sap-btp-cloud-foundry-runtime.png" alt="SAPBTPCloudFoundryRuntime" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.SAPBTPCloudFoundryRuntime**
+
+<img width="30" src="/img/resources/sap/foundational/sap-btp-kyma-runtime.png" alt="SAPBTPKymaRuntime" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.SAPBTPKymaRuntime**
+
+<img width="30" src="/img/resources/sap/foundational/sap-cloud-identity-sap-authorization-and-trust-management-service.png" alt="SAPCloudIdentitySAPAuthorizationAndTrustManagementService" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.SAPCloudIdentitySAPAuthorizationAndTrustManagementService**
+
+<img width="30" src="/img/resources/sap/foundational/sap-cloud-identity-sap-credential-store.png" alt="SAPCloudIdentitySAPCredentialStore" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.SAPCloudIdentitySAPCredentialStore**
+
+<img width="30" src="/img/resources/sap/foundational/sap-cloud-identity-sap-custom-domain-service.png" alt="SAPCloudIdentitySAPCustomDomainService" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.SAPCloudIdentitySAPCustomDomainService**
+
+<img width="30" src="/img/resources/sap/foundational/sap-cloud-identity-sap-keystore-service.png" alt="SAPCloudIdentitySAPKeystoreService" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.SAPCloudIdentitySAPKeystoreService**
+
+<img width="30" src="/img/resources/sap/foundational/sap-cloud-identity-sap-malware-scanning-service.png" alt="SAPCloudIdentitySAPMalwareScanningService" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.SAPCloudIdentitySAPMalwareScanningService**
+
+<img width="30" src="/img/resources/sap/foundational/sap-cloud-identity-service.png" alt="SAPCloudIdentityService" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.SAPCloudIdentityService**
+
+<img width="30" src="/img/resources/sap/foundational/sap-cloud-management-service-for-sap-btp.png" alt="SAPCloudManagementServiceForSAPBTP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.SAPCloudManagementServiceForSAPBTP**
+
+<img width="30" src="/img/resources/sap/foundational/sap-cloud-transport-management.png" alt="SAPCloudTransportManagement" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.SAPCloudTransportManagement**
+
+<img width="30" src="/img/resources/sap/foundational/sap-connectivity-service.png" alt="SAPConnectivityService" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.SAPConnectivityService**
+
+<img width="30" src="/img/resources/sap/foundational/sap-content-agent-service.png" alt="SAPContentAgentService" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.SAPContentAgentService**
+
+<img width="30" src="/img/resources/sap/foundational/sap-continuous-integration-and-delivery.png" alt="SAPContinuousIntegrationAndDelivery" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.SAPContinuousIntegrationAndDelivery**
+
+<img width="30" src="/img/resources/sap/foundational/sap-data-privacy-integration.png" alt="SAPDataPrivacyIntegration" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.SAPDataPrivacyIntegration**
+
+<img width="30" src="/img/resources/sap/foundational/sap-data-retention-manager.png" alt="SAPDataRetentionManager" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.SAPDataRetentionManager**
+
+<img width="30" src="/img/resources/sap/foundational/sap-destination-service.png" alt="SAPDestinationService" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.SAPDestinationService**
+
+<img width="30" src="/img/resources/sap/foundational/sap-document-management-service.png" alt="SAPDocumentManagementService" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.SAPDocumentManagementService**
+
+<img width="30" src="/img/resources/sap/foundational/sap-event-broker-for-sap-cloud-applications.png" alt="SAPEventBrokerForSAPCloudApplications" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.SAPEventBrokerForSAPCloudApplications**
+
+<img width="30" src="/img/resources/sap/foundational/sap-identity-authentication.png" alt="SAPIdentityAuthentication" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.SAPIdentityAuthentication**
+
+<img width="30" src="/img/resources/sap/foundational/sap-identity-directory.png" alt="SAPIdentityDirectory" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.SAPIdentityDirectory**
+
+<img width="30" src="/img/resources/sap/foundational/sap-identity-provisoning.png" alt="SAPIdentityProvisoning" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.SAPIdentityProvisoning**
+
+<img width="30" src="/img/resources/sap/foundational/sap-job-scheduling-service.png" alt="SAPJobSchedulingService" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.SAPJobSchedulingService**
+
+<img width="30" src="/img/resources/sap/foundational/sap-master-data-integration.png" alt="SAPMasterDataIntegration" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.SAPMasterDataIntegration**
+
+<img width="30" src="/img/resources/sap/foundational/sap-monitoring-service-for-sap-btp.png" alt="SAPMonitoringServiceForSAPBTP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.SAPMonitoringServiceForSAPBTP**
+
+<img width="30" src="/img/resources/sap/foundational/sap-personal-data-manager.png" alt="SAPPersonalDataManager" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.SAPPersonalDataManager**
+
+<img width="30" src="/img/resources/sap/foundational/sap-pki-certificate-service.png" alt="SAPPkiCertificateService" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.SAPPkiCertificateService**
+
+<img width="30" src="/img/resources/sap/foundational/sap-private-link-service.png" alt="SAPPrivateLinkService" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.SAPPrivateLinkService**
+
+<img width="30" src="/img/resources/sap/foundational/sap-secure-login-service-for-sap-gui.png" alt="SAPSecureLoginServiceForSAPGui" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.SAPSecureLoginServiceForSAPGui**
+
+<img width="30" src="/img/resources/sap/foundational/sap-software-as-a-service-provisioning-service.png" alt="SAPSoftwareAsAServiceProvisioningService" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.SAPSoftwareAsAServiceProvisioningService**
+
+<img width="30" src="/img/resources/sap/foundational/sap-solution-lifecycle-management-service-for-sap-btp.png" alt="SAPSolutionLifecycleManagementServiceForSAPBTP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.SAPSolutionLifecycleManagementServiceForSAPBTP**
+
+<img width="30" src="/img/resources/sap/foundational/service-manager.png" alt="ServiceManager" style="float: left; padding-right: 5px;" >
+**diagrams.sap.foundational.ServiceManager**
 
 ## sap.generic
 
 
-<img width="30" src="/img/resources/sap/generic/accelerated.png" alt="Accelerated" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Accelerated**
+<img width="30" src="/img/resources/sap/generic/adapter-highlight.png" alt="AdapterHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.AdapterHighlight**
 
-<img width="30" src="/img/resources/sap/generic/accept.png" alt="Accept" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Accept**
+<img width="30" src="/img/resources/sap/generic/adapter-non-sap.png" alt="AdapterNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.AdapterNonSAP**
 
-<img width="30" src="/img/resources/sap/generic/action-settings.png" alt="ActionSettings" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.ActionSettings**
+<img width="30" src="/img/resources/sap/generic/adapter-sap.png" alt="AdapterSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.AdapterSAP**
 
-<img width="30" src="/img/resources/sap/generic/add.png" alt="Add" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Add**
+<img width="30" src="/img/resources/sap/generic/admin-highlight.png" alt="AdminHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.AdminHighlight**
 
-<img width="30" src="/img/resources/sap/generic/alert.png" alt="Alert" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Alert**
+<img width="30" src="/img/resources/sap/generic/admin-non-sap.png" alt="AdminNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.AdminNonSAP**
 
-<img width="30" src="/img/resources/sap/generic/arobase.png" alt="Arobase" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Arobase**
+<img width="30" src="/img/resources/sap/generic/admin-sap.png" alt="AdminSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.AdminSAP**
 
-<img width="30" src="/img/resources/sap/generic/arrow-bottom.png" alt="ArrowBottom" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.ArrowBottom**
+<img width="30" src="/img/resources/sap/generic/ai-highlight.png" alt="AIHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.AIHighlight**
 
-<img width="30" src="/img/resources/sap/generic/arrow-left.png" alt="ArrowLeft" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.ArrowLeft**
+<img width="30" src="/img/resources/sap/generic/ai-non-sap.png" alt="AINonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.AINonSAP**
 
-<img width="30" src="/img/resources/sap/generic/arrow-right.png" alt="ArrowRight" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.ArrowRight**
+<img width="30" src="/img/resources/sap/generic/ai-sap.png" alt="AISAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.AISAP**
 
-<img width="30" src="/img/resources/sap/generic/arrow-top.png" alt="ArrowTop" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.ArrowTop**
+<img width="30" src="/img/resources/sap/generic/alert-highlight.png" alt="AlertHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.AlertHighlight**
 
-<img width="30" src="/img/resources/sap/generic/background.png" alt="Background" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Background**
+<img width="30" src="/img/resources/sap/generic/alert-non-sap.png" alt="AlertNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.AlertNonSAP**
 
-<img width="30" src="/img/resources/sap/generic/bar-chart.png" alt="BarChart" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.BarChart**
+<img width="30" src="/img/resources/sap/generic/alert-sap.png" alt="AlertSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.AlertSAP**
 
-<img width="30" src="/img/resources/sap/generic/block.png" alt="Block" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Block**
+<img width="30" src="/img/resources/sap/generic/api-highlight.png" alt="APIHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.APIHighlight**
 
-<img width="30" src="/img/resources/sap/generic/broken-link.png" alt="BrokenLink" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.BrokenLink**
+<img width="30" src="/img/resources/sap/generic/api-non-sap.png" alt="APINonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.APINonSAP**
 
-<img width="30" src="/img/resources/sap/generic/calendar.png" alt="Calendar" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Calendar**
+<img width="30" src="/img/resources/sap/generic/api-sap.png" alt="APISAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.APISAP**
 
-<img width="30" src="/img/resources/sap/generic/camera.png" alt="Camera" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Camera**
+<img width="30" src="/img/resources/sap/generic/app-highlight.png" alt="AppHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.AppHighlight**
 
-<img width="30" src="/img/resources/sap/generic/cart.png" alt="Cart" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Cart**
+<img width="30" src="/img/resources/sap/generic/app-non-sap.png" alt="AppNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.AppNonSAP**
 
-<img width="30" src="/img/resources/sap/generic/chain-link.png" alt="ChainLink" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.ChainLink**
+<img width="30" src="/img/resources/sap/generic/app-sap.png" alt="AppSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.AppSAP**
 
-<img width="30" src="/img/resources/sap/generic/chalkboard.png" alt="Chalkboard" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Chalkboard**
+<img width="30" src="/img/resources/sap/generic/building-highlight.png" alt="BuildingHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.BuildingHighlight**
 
-<img width="30" src="/img/resources/sap/generic/chart-tree-map.png" alt="ChartTreeMap" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.ChartTreeMap**
+<img width="30" src="/img/resources/sap/generic/building-non-sap.png" alt="BuildingNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.BuildingNonSAP**
 
-<img width="30" src="/img/resources/sap/generic/cloud.png" alt="Cloud" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Cloud**
+<img width="30" src="/img/resources/sap/generic/building-sap.png" alt="BuildingSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.BuildingSAP**
 
-<img width="30" src="/img/resources/sap/generic/compare.png" alt="Compare" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Compare**
+<img width="30" src="/img/resources/sap/generic/cloud-connector-highlight.png" alt="CloudConnectorHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.CloudConnectorHighlight**
 
-<img width="30" src="/img/resources/sap/generic/competitor.png" alt="Competitor" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Competitor**
+<img width="30" src="/img/resources/sap/generic/cloud-connector-non-sap.png" alt="CloudConnectorNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.CloudConnectorNonSAP**
 
-<img width="30" src="/img/resources/sap/generic/complete.png" alt="Complete" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Complete**
+<img width="30" src="/img/resources/sap/generic/cloud-connector-sap.png" alt="CloudConnectorSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.CloudConnectorSAP**
 
-<img width="30" src="/img/resources/sap/generic/course-program.png" alt="CourseProgram" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.CourseProgram**
+<img width="30" src="/img/resources/sap/generic/cloud-highlight.png" alt="CloudHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.CloudHighlight**
 
-<img width="30" src="/img/resources/sap/generic/create-entry-time.png" alt="CreateEntryTime" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.CreateEntryTime**
+<img width="30" src="/img/resources/sap/generic/cloud-non-sap.png" alt="CloudNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.CloudNonSAP**
 
-<img width="30" src="/img/resources/sap/generic/create.png" alt="Create" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Create**
+<img width="30" src="/img/resources/sap/generic/cloud-sap.png" alt="CloudSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.CloudSAP**
 
-<img width="30" src="/img/resources/sap/generic/curriculum.png" alt="Curriculum" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Curriculum**
+<img width="30" src="/img/resources/sap/generic/collision-highlight.png" alt="CollisionHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.CollisionHighlight**
 
-<img width="30" src="/img/resources/sap/generic/customer-order-entry.png" alt="CustomerOrderEntry" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.CustomerOrderEntry**
+<img width="30" src="/img/resources/sap/generic/collision-non-sap.png" alt="CollisionNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.CollisionNonSAP**
 
-<img width="30" src="/img/resources/sap/generic/data-store.png" alt="DataStore" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.DataStore**
+<img width="30" src="/img/resources/sap/generic/collision-sap.png" alt="CollisionSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.CollisionSAP**
 
-<img width="30" src="/img/resources/sap/generic/database.png" alt="Database" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Database**
+<img width="30" src="/img/resources/sap/generic/da-highlight.png" alt="DaHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.DaHighlight**
 
-<img width="30" src="/img/resources/sap/generic/decline.png" alt="Decline" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Decline**
+<img width="30" src="/img/resources/sap/generic/da-non-sap.png" alt="DaNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.DaNonSAP**
 
-<img width="30" src="/img/resources/sap/generic/delete.png" alt="Delete" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Delete**
+<img width="30" src="/img/resources/sap/generic/da-sap.png" alt="DaSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.DaSAP**
 
-<img width="30" src="/img/resources/sap/generic/document-text.png" alt="DocumentText" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.DocumentText**
+<img width="30" src="/img/resources/sap/generic/deploy-highlight.png" alt="DeployHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.DeployHighlight**
 
-<img width="30" src="/img/resources/sap/generic/document.png" alt="Document" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Document**
+<img width="30" src="/img/resources/sap/generic/deploy-non-sap.png" alt="DeployNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.DeployNonSAP**
 
-<img width="30" src="/img/resources/sap/generic/download-from-cloud.png" alt="DownloadFromCloud" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.DownloadFromCloud**
+<img width="30" src="/img/resources/sap/generic/deploy-sap.png" alt="DeploySAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.DeploySAP**
 
-<img width="30" src="/img/resources/sap/generic/download.png" alt="Download" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Download**
+<img width="30" src="/img/resources/sap/generic/desktop-highlight.png" alt="DesktopHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.DesktopHighlight**
 
-<img width="30" src="/img/resources/sap/generic/e-care.png" alt="ECare" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.ECare**
+<img width="30" src="/img/resources/sap/generic/desktop-non-sap.png" alt="DesktopNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.DesktopNonSAP**
 
-<img width="30" src="/img/resources/sap/generic/e-learning.png" alt="ELearning" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.ELearning**
+<img width="30" src="/img/resources/sap/generic/desktop-sap.png" alt="DesktopSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.DesktopSAP**
 
-<img width="30" src="/img/resources/sap/generic/edit.png" alt="Edit" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Edit**
+<img width="30" src="/img/resources/sap/generic/detail-view-highlight.png" alt="DetailViewHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.DetailViewHighlight**
 
-<img width="30" src="/img/resources/sap/generic/email-read.png" alt="EmailRead" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.EmailRead**
+<img width="30" src="/img/resources/sap/generic/detail-view-non-sap.png" alt="DetailViewNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.DetailViewNonSAP**
 
-<img width="30" src="/img/resources/sap/generic/energy-saving-lightbulb.png" alt="EnergySavingLightbulb" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.EnergySavingLightbulb**
+<img width="30" src="/img/resources/sap/generic/detail-view-sap.png" alt="DetailViewSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.DetailViewSAP**
 
-<img width="30" src="/img/resources/sap/generic/expense-report.png" alt="ExpenseReport" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.ExpenseReport**
+<img width="30" src="/img/resources/sap/generic/devices-highlight.png" alt="DevicesHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.DevicesHighlight**
 
-<img width="30" src="/img/resources/sap/generic/factory.png" alt="Factory" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Factory**
+<img width="30" src="/img/resources/sap/generic/devices-non-sap.png" alt="DevicesNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.DevicesNonSAP**
 
-<img width="30" src="/img/resources/sap/generic/family-care.png" alt="FamilyCare" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.FamilyCare**
+<img width="30" src="/img/resources/sap/generic/devices-sap.png" alt="DevicesSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.DevicesSAP**
 
-<img width="30" src="/img/resources/sap/generic/favorite.png" alt="Favorite" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Favorite**
+<img width="30" src="/img/resources/sap/generic/document-highlight.png" alt="DocumentHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.DocumentHighlight**
 
-<img width="30" src="/img/resources/sap/generic/feed.png" alt="Feed" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Feed**
+<img width="30" src="/img/resources/sap/generic/document-non-sap.png" alt="DocumentNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.DocumentNonSAP**
 
-<img width="30" src="/img/resources/sap/generic/filter.png" alt="Filter" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Filter**
+<img width="30" src="/img/resources/sap/generic/document-sap.png" alt="DocumentSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.DocumentSAP**
 
-<img width="30" src="/img/resources/sap/generic/folder.png" alt="Folder" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Folder**
+<img width="30" src="/img/resources/sap/generic/documents-highlight.png" alt="DocumentsHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.DocumentsHighlight**
 
-<img width="30" src="/img/resources/sap/generic/fresh.png" alt="Fresh" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Fresh**
+<img width="30" src="/img/resources/sap/generic/documents-non-sap.png" alt="DocumentsNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.DocumentsNonSAP**
 
-<img width="30" src="/img/resources/sap/generic/gantt-bars.png" alt="GanttBars" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.GanttBars**
+<img width="30" src="/img/resources/sap/generic/documents-sap.png" alt="DocumentsSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.DocumentsSAP**
 
-<img width="30" src="/img/resources/sap/generic/group.png" alt="Group" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Group**
+<img width="30" src="/img/resources/sap/generic/event-highlight.png" alt="EventHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.EventHighlight**
 
-<img width="30" src="/img/resources/sap/generic/history.png" alt="History" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.History**
+<img width="30" src="/img/resources/sap/generic/event-non-sap.png" alt="EventNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.EventNonSAP**
 
-<img width="30" src="/img/resources/sap/generic/home.png" alt="Home" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Home**
+<img width="30" src="/img/resources/sap/generic/event-sap.png" alt="EventSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.EventSAP**
 
-<img width="30" src="/img/resources/sap/generic/internet-browser.png" alt="InternetBrowser" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.InternetBrowser**
+<img width="30" src="/img/resources/sap/generic/factory-highlight.png" alt="FactoryHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.FactoryHighlight**
 
-<img width="30" src="/img/resources/sap/generic/ipad.png" alt="Ipad" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Ipad**
+<img width="30" src="/img/resources/sap/generic/factory-non-sap.png" alt="FactoryNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.FactoryNonSAP**
 
-<img width="30" src="/img/resources/sap/generic/iphone.png" alt="Iphone" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Iphone**
+<img width="30" src="/img/resources/sap/generic/factory-sap.png" alt="FactorySAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.FactorySAP**
 
-<img width="30" src="/img/resources/sap/generic/it-host.png" alt="ItHost" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.ItHost**
+<img width="30" src="/img/resources/sap/generic/feature-highlight.png" alt="FeatureHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.FeatureHighlight**
 
-<img width="30" src="/img/resources/sap/generic/it-instance.png" alt="ItInstance" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.ItInstance**
+<img width="30" src="/img/resources/sap/generic/feature-non-sap.png" alt="FeatureNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.FeatureNonSAP**
 
-<img width="30" src="/img/resources/sap/generic/it-system.png" alt="ItSystem" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.ItSystem**
+<img width="30" src="/img/resources/sap/generic/feature-sap.png" alt="FeatureSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.FeatureSAP**
 
-<img width="30" src="/img/resources/sap/generic/key-pair.png" alt="KeyPair" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.KeyPair**
+<img width="30" src="/img/resources/sap/generic/indent-highlight.png" alt="IndentHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.IndentHighlight**
 
-<img width="30" src="/img/resources/sap/generic/key-user-settings.png" alt="KeyUserSettings" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.KeyUserSettings**
+<img width="30" src="/img/resources/sap/generic/indent-non-sap.png" alt="IndentNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.IndentNonSAP**
 
-<img width="30" src="/img/resources/sap/generic/laptop.png" alt="Laptop" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Laptop**
+<img width="30" src="/img/resources/sap/generic/indent-sap.png" alt="IndentSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.IndentSAP**
 
-<img width="30" src="/img/resources/sap/generic/learning-assistant.png" alt="LearningAssistant" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.LearningAssistant**
+<img width="30" src="/img/resources/sap/generic/info-highlight.png" alt="InfoHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.InfoHighlight**
 
-<img width="30" src="/img/resources/sap/generic/legend.png" alt="Legend" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Legend**
+<img width="30" src="/img/resources/sap/generic/info-non-sap.png" alt="InfoNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.InfoNonSAP**
 
-<img width="30" src="/img/resources/sap/generic/less.png" alt="Less" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Less**
+<img width="30" src="/img/resources/sap/generic/info-sap.png" alt="InfoSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.InfoSAP**
 
-<img width="30" src="/img/resources/sap/generic/lightbulb.png" alt="Lightbulb" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Lightbulb**
+<img width="30" src="/img/resources/sap/generic/inspect-highlight.png" alt="InspectHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.InspectHighlight**
 
-<img width="30" src="/img/resources/sap/generic/locked.png" alt="Locked" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Locked**
+<img width="30" src="/img/resources/sap/generic/inspect-non-sap.png" alt="InspectNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.InspectNonSAP**
 
-<img width="30" src="/img/resources/sap/generic/log.png" alt="Log" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Log**
+<img width="30" src="/img/resources/sap/generic/inspect-sap.png" alt="InspectSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.InspectSAP**
 
-<img width="30" src="/img/resources/sap/generic/mail.png" alt="Mail" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Mail**
+<img width="30" src="/img/resources/sap/generic/key-highlight.png" alt="KeyHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.KeyHighlight**
 
-<img width="30" src="/img/resources/sap/generic/map.png" alt="Map" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Map**
+<img width="30" src="/img/resources/sap/generic/key-non-sap.png" alt="KeyNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.KeyNonSAP**
 
-<img width="30" src="/img/resources/sap/generic/microphone.png" alt="Microphone" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Microphone**
+<img width="30" src="/img/resources/sap/generic/key-sap.png" alt="KeySAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.KeySAP**
 
-<img width="30" src="/img/resources/sap/generic/my-sales-order.png" alt="MySalesOrder" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.MySalesOrder**
+<img width="30" src="/img/resources/sap/generic/link-highlight.png" alt="LinkHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.LinkHighlight**
 
-<img width="30" src="/img/resources/sap/generic/open-folder.png" alt="OpenFolder" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.OpenFolder**
+<img width="30" src="/img/resources/sap/generic/link-non-sap.png" alt="LinkNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.LinkNonSAP**
 
-<img width="30" src="/img/resources/sap/generic/org-chart.png" alt="OrgChart" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.OrgChart**
+<img width="30" src="/img/resources/sap/generic/link-sap.png" alt="LinkSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.LinkSAP**
 
-<img width="30" src="/img/resources/sap/generic/pdf-attachment.png" alt="PdfAttachment" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.PdfAttachment**
+<img width="30" src="/img/resources/sap/generic/locked-highlight.png" alt="LockedHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.LockedHighlight**
 
-<img width="30" src="/img/resources/sap/generic/person-placeholder.png" alt="PersonPlaceholder" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.PersonPlaceholder**
+<img width="30" src="/img/resources/sap/generic/locked-non-sap.png" alt="LockedNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.LockedNonSAP**
 
-<img width="30" src="/img/resources/sap/generic/post.png" alt="Post" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Post**
+<img width="30" src="/img/resources/sap/generic/locked-sap.png" alt="LockedSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.LockedSAP**
 
-<img width="30" src="/img/resources/sap/generic/private-key.png" alt="PrivateKey" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.PrivateKey**
+<img width="30" src="/img/resources/sap/generic/machine-highlight.png" alt="MachineHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.MachineHighlight**
 
-<img width="30" src="/img/resources/sap/generic/process.png" alt="Process" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Process**
+<img width="30" src="/img/resources/sap/generic/machine-non-sap.png" alt="MachineNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.MachineNonSAP**
 
-<img width="30" src="/img/resources/sap/generic/product.png" alt="Product" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Product**
+<img width="30" src="/img/resources/sap/generic/machine-sap.png" alt="MachineSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.MachineSAP**
 
-<img width="30" src="/img/resources/sap/generic/public-key.png" alt="PublicKey" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.PublicKey**
+<img width="30" src="/img/resources/sap/generic/message-highlight.png" alt="MessageHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.MessageHighlight**
 
-<img width="30" src="/img/resources/sap/generic/pushpin-off.png" alt="PushpinOff" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.PushpinOff**
+<img width="30" src="/img/resources/sap/generic/message-non-sap.png" alt="MessageNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.MessageNonSAP**
 
-<img width="30" src="/img/resources/sap/generic/request.png" alt="Request" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Request**
+<img width="30" src="/img/resources/sap/generic/message-sap.png" alt="MessageSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.MessageSAP**
 
-<img width="30" src="/img/resources/sap/generic/sap-logo-shape.png" alt="SAPLogoShape" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.SAPLogoShape**
+<img width="30" src="/img/resources/sap/generic/mobile-highlight.png" alt="MobileHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.MobileHighlight**
 
-<img width="30" src="/img/resources/sap/generic/save.png" alt="Save" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Save**
+<img width="30" src="/img/resources/sap/generic/mobile-non-sap.png" alt="MobileNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.MobileNonSAP**
 
-<img width="30" src="/img/resources/sap/generic/search.png" alt="Search" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Search**
+<img width="30" src="/img/resources/sap/generic/mobile-sap.png" alt="MobileSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.MobileSAP**
 
-<img width="30" src="/img/resources/sap/generic/settings.png" alt="Settings" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Settings**
+<img width="30" src="/img/resources/sap/generic/on-premise-highlight.png" alt="OnPremiseHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.OnPremiseHighlight**
 
-<img width="30" src="/img/resources/sap/generic/shelf.png" alt="Shelf" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Shelf**
+<img width="30" src="/img/resources/sap/generic/on-premise-non-sap.png" alt="OnPremiseNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.OnPremiseNonSAP**
 
-<img width="30" src="/img/resources/sap/generic/shield.png" alt="Shield" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Shield**
+<img width="30" src="/img/resources/sap/generic/on-premise-sap.png" alt="OnPremiseSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.OnPremiseSAP**
 
-<img width="30" src="/img/resources/sap/generic/sort.png" alt="Sort" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Sort**
+<img width="30" src="/img/resources/sap/generic/palette-highlight.png" alt="PaletteHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.PaletteHighlight**
 
-<img width="30" src="/img/resources/sap/generic/sound-loud.png" alt="SoundLoud" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.SoundLoud**
+<img width="30" src="/img/resources/sap/generic/palette-non-sap.png" alt="PaletteNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.PaletteNonSAP**
 
-<img width="30" src="/img/resources/sap/generic/sound.png" alt="Sound" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Sound**
+<img width="30" src="/img/resources/sap/generic/palette-sap.png" alt="PaletteSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.PaletteSAP**
 
-<img width="30" src="/img/resources/sap/generic/status-critical.png" alt="StatusCritical" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.StatusCritical**
+<img width="30" src="/img/resources/sap/generic/paper-plane-highlight.png" alt="PaperPlaneHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.PaperPlaneHighlight**
 
-<img width="30" src="/img/resources/sap/generic/status-inactive.png" alt="StatusInactive" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.StatusInactive**
+<img width="30" src="/img/resources/sap/generic/paper-plane-non-sap.png" alt="PaperPlaneNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.PaperPlaneNonSAP**
 
-<img width="30" src="/img/resources/sap/generic/status-negative.png" alt="StatusNegative" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.StatusNegative**
+<img width="30" src="/img/resources/sap/generic/paper-plane-sap.png" alt="PaperPlaneSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.PaperPlaneSAP**
 
-<img width="30" src="/img/resources/sap/generic/status-positive.png" alt="StatusPositive" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.StatusPositive**
+<img width="30" src="/img/resources/sap/generic/permission-highlight.png" alt="PermissionHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.PermissionHighlight**
 
-<img width="30" src="/img/resources/sap/generic/switch-classes.png" alt="SwitchClasses" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.SwitchClasses**
+<img width="30" src="/img/resources/sap/generic/permission-non-sap.png" alt="PermissionNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.PermissionNonSAP**
 
-<img width="30" src="/img/resources/sap/generic/synchronize.png" alt="Synchronize" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Synchronize**
+<img width="30" src="/img/resources/sap/generic/permission-sap.png" alt="PermissionSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.PermissionSAP**
 
-<img width="30" src="/img/resources/sap/generic/sys-help.png" alt="SysHelp" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.SysHelp**
+<img width="30" src="/img/resources/sap/generic/restart-highlight.png" alt="RestartHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.RestartHighlight**
 
-<img width="30" src="/img/resources/sap/generic/sys-monitor.png" alt="SysMonitor" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.SysMonitor**
+<img width="30" src="/img/resources/sap/generic/restart-non-sap.png" alt="RestartNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.RestartNonSAP**
 
-<img width="30" src="/img/resources/sap/generic/system-hana.png" alt="SystemHANA" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.SystemHANA**
+<img width="30" src="/img/resources/sap/generic/restart-sap.png" alt="RestartSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.RestartSAP**
 
-<img width="30" src="/img/resources/sap/generic/timesheet.png" alt="Timesheet" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Timesheet**
+<img width="30" src="/img/resources/sap/generic/settings-highlight.png" alt="SettingsHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.SettingsHighlight**
 
-<img width="30" src="/img/resources/sap/generic/tree.png" alt="Tree" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Tree**
+<img width="30" src="/img/resources/sap/generic/settings-non-sap.png" alt="SettingsNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.SettingsNonSAP**
 
-<img width="30" src="/img/resources/sap/generic/unfavorite.png" alt="Unfavorite" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Unfavorite**
+<img width="30" src="/img/resources/sap/generic/settings-sap.png" alt="SettingsSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.SettingsSAP**
 
-<img width="30" src="/img/resources/sap/generic/unlocked.png" alt="Unlocked" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Unlocked**
+<img width="30" src="/img/resources/sap/generic/success-highlight.png" alt="SuccessHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.SuccessHighlight**
 
-<img width="30" src="/img/resources/sap/generic/upload-to-cloud.png" alt="UploadToCloud" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.UploadToCloud**
+<img width="30" src="/img/resources/sap/generic/success-non-sap.png" alt="SuccessNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.SuccessNonSAP**
 
-<img width="30" src="/img/resources/sap/generic/upload.png" alt="Upload" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Upload**
+<img width="30" src="/img/resources/sap/generic/success-sap.png" alt="SuccessSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.SuccessSAP**
 
-<img width="30" src="/img/resources/sap/generic/video.png" alt="Video" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Video**
+<img width="30" src="/img/resources/sap/generic/synchronize-highlight.png" alt="SynchronizeHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.SynchronizeHighlight**
 
-<img width="30" src="/img/resources/sap/generic/wifi.png" alt="Wifi" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Wifi**
+<img width="30" src="/img/resources/sap/generic/synchronize-non-sap.png" alt="SynchronizeNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.SynchronizeNonSAP**
 
-<img width="30" src="/img/resources/sap/generic/world.png" alt="World" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.World**
+<img width="30" src="/img/resources/sap/generic/synchronize-sap.png" alt="SynchronizeSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.SynchronizeSAP**
 
-<img width="30" src="/img/resources/sap/generic/wrench.png" alt="Wrench" style="float: left; padding-right: 5px;" >
-**diagrams.sap.generic.Wrench**
+<img width="30" src="/img/resources/sap/generic/third-party-highlight.png" alt="ThirdPartyHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.ThirdPartyHighlight**
 
-## sap.integration
+<img width="30" src="/img/resources/sap/generic/third-party-non-sap.png" alt="ThirdPartyNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.ThirdPartyNonSAP**
 
+<img width="30" src="/img/resources/sap/generic/third-party-sap.png" alt="ThirdPartySAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.ThirdPartySAP**
 
-<img width="30" src="/img/resources/sap/integration/advanced-event-mesh.png" alt="AdvancedEventMesh" style="float: left; padding-right: 5px;" >
-**diagrams.sap.integration.AdvancedEventMesh**
+<img width="30" src="/img/resources/sap/generic/tree-highlight.png" alt="TreeHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.TreeHighlight**
 
-<img width="30" src="/img/resources/sap/integration/api-management.png" alt="APIManagement" style="float: left; padding-right: 5px;" >
-**diagrams.sap.integration.APIManagement**
+<img width="30" src="/img/resources/sap/generic/tree-non-sap.png" alt="TreeNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.TreeNonSAP**
 
-<img width="30" src="/img/resources/sap/integration/cloud-integration-automation.png" alt="CloudIntegrationAutomation" style="float: left; padding-right: 5px;" >
-**diagrams.sap.integration.CloudIntegrationAutomation**
+<img width="30" src="/img/resources/sap/generic/tree-sap.png" alt="TreeSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.TreeSAP**
 
-<img width="30" src="/img/resources/sap/integration/cloud-integration-for-data-services.png" alt="CloudIntegrationForDataServices" style="float: left; padding-right: 5px;" >
-**diagrams.sap.integration.CloudIntegrationForDataServices**
+<img width="30" src="/img/resources/sap/generic/user-highlight.png" alt="UserHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.UserHighlight**
 
-<img width="30" src="/img/resources/sap/integration/cloud-integration.png" alt="CloudIntegration" style="float: left; padding-right: 5px;" >
-**diagrams.sap.integration.CloudIntegration**
+<img width="30" src="/img/resources/sap/generic/user-non-sap.png" alt="UserNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.UserNonSAP**
 
-<img width="30" src="/img/resources/sap/integration/data-space-integration.png" alt="DataSpaceIntegration" style="float: left; padding-right: 5px;" >
-**diagrams.sap.integration.DataSpaceIntegration**
+<img width="30" src="/img/resources/sap/generic/user-sap.png" alt="UserSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.UserSAP**
 
-<img width="30" src="/img/resources/sap/integration/edge-integration-cell.png" alt="EdgeIntegrationCell" style="float: left; padding-right: 5px;" >
-**diagrams.sap.integration.EdgeIntegrationCell**
+<img width="30" src="/img/resources/sap/generic/web-highlight.png" alt="WebHighlight" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.WebHighlight**
 
-<img width="30" src="/img/resources/sap/integration/event-mesh.png" alt="EventMesh" style="float: left; padding-right: 5px;" >
-**diagrams.sap.integration.EventMesh**
+<img width="30" src="/img/resources/sap/generic/web-non-sap.png" alt="WebNonSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.WebNonSAP**
 
-<img width="30" src="/img/resources/sap/integration/graph.png" alt="Graph" style="float: left; padding-right: 5px;" >
-**diagrams.sap.integration.Graph**
+<img width="30" src="/img/resources/sap/generic/web-sap.png" alt="WebSAP" style="float: left; padding-right: 5px;" >
+**diagrams.sap.generic.WebSAP**
 
-<img width="30" src="/img/resources/sap/integration/integration-advisor.png" alt="IntegrationAdvisor" style="float: left; padding-right: 5px;" >
-**diagrams.sap.integration.IntegrationAdvisor**
+## sap.integration_suite
 
-<img width="30" src="/img/resources/sap/integration/integration-assessment.png" alt="IntegrationAssessment" style="float: left; padding-right: 5px;" >
-**diagrams.sap.integration.IntegrationAssessment**
 
-<img width="30" src="/img/resources/sap/integration/integration-suite.png" alt="IntegrationSuite" style="float: left; padding-right: 5px;" >
-**diagrams.sap.integration.IntegrationSuite**
+<img width="30" src="/img/resources/sap/integration_suite/advanced-event-mesh.png" alt="AdvancedEventMesh" style="float: left; padding-right: 5px;" >
+**diagrams.sap.integration_suite.AdvancedEventMesh**
 
-<img width="30" src="/img/resources/sap/integration/master-data-integration.png" alt="MasterDataIntegration" style="float: left; padding-right: 5px;" >
-**diagrams.sap.integration.MasterDataIntegration**
+<img width="30" src="/img/resources/sap/integration_suite/api-management.png" alt="APIManagement" style="float: left; padding-right: 5px;" >
+**diagrams.sap.integration_suite.APIManagement**
 
-<img width="30" src="/img/resources/sap/integration/migration-assessment.png" alt="MigrationAssessment" style="float: left; padding-right: 5px;" >
-**diagrams.sap.integration.MigrationAssessment**
+<img width="30" src="/img/resources/sap/integration_suite/cloud-integration.png" alt="CloudIntegration" style="float: left; padding-right: 5px;" >
+**diagrams.sap.integration_suite.CloudIntegration**
 
-<img width="30" src="/img/resources/sap/integration/open-connectors.png" alt="OpenConnectors" style="float: left; padding-right: 5px;" >
-**diagrams.sap.integration.OpenConnectors**
+<img width="30" src="/img/resources/sap/integration_suite/data-space-integration.png" alt="DataSpaceIntegration" style="float: left; padding-right: 5px;" >
+**diagrams.sap.integration_suite.DataSpaceIntegration**
 
-<img width="30" src="/img/resources/sap/integration/sap-api-hub-enterprise.png" alt="SAPAPIHubEnterprise" style="float: left; padding-right: 5px;" >
-**diagrams.sap.integration.SAPAPIHubEnterprise**
+<img width="30" src="/img/resources/sap/integration_suite/edge-integration-cell.png" alt="EdgeIntegrationCell" style="float: left; padding-right: 5px;" >
+**diagrams.sap.integration_suite.EdgeIntegrationCell**
 
-<img width="30" src="/img/resources/sap/integration/sap-business-accelerator-hub.png" alt="SAPBusinessAcceleratorHub" style="float: left; padding-right: 5px;" >
-**diagrams.sap.integration.SAPBusinessAcceleratorHub**
+<img width="30" src="/img/resources/sap/integration_suite/event-mesh.png" alt="EventMesh" style="float: left; padding-right: 5px;" >
+**diagrams.sap.integration_suite.EventMesh**
 
-<img width="30" src="/img/resources/sap/integration/sap-document-and-reporting-compliance.png" alt="SAPDocumentAndReportingCompliance" style="float: left; padding-right: 5px;" >
-**diagrams.sap.integration.SAPDocumentAndReportingCompliance**
+<img width="30" src="/img/resources/sap/integration_suite/graph.png" alt="Graph" style="float: left; padding-right: 5px;" >
+**diagrams.sap.integration_suite.Graph**
 
-<img width="30" src="/img/resources/sap/integration/sap-event-broker.png" alt="SAPEventBroker" style="float: left; padding-right: 5px;" >
-**diagrams.sap.integration.SAPEventBroker**
+<img width="30" src="/img/resources/sap/integration_suite/integration-advisor.png" alt="IntegrationAdvisor" style="float: left; padding-right: 5px;" >
+**diagrams.sap.integration_suite.IntegrationAdvisor**
 
-<img width="30" src="/img/resources/sap/integration/sap-graph.png" alt="SAPGraph" style="float: left; padding-right: 5px;" >
-**diagrams.sap.integration.SAPGraph**
+<img width="30" src="/img/resources/sap/integration_suite/integration-assessment.png" alt="IntegrationAssessment" style="float: left; padding-right: 5px;" >
+**diagrams.sap.integration_suite.IntegrationAssessment**
 
-<img width="30" src="/img/resources/sap/integration/sap-integration-suite.png" alt="SAPIntegrationSuite" style="float: left; padding-right: 5px;" >
-**diagrams.sap.integration.SAPIntegrationSuite**
+<img width="30" src="/img/resources/sap/integration_suite/migration-assessment.png" alt="MigrationAssessment" style="float: left; padding-right: 5px;" >
+**diagrams.sap.integration_suite.MigrationAssessment**
 
-<img width="30" src="/img/resources/sap/integration/trading-partner-management.png" alt="TradingPartnerManagement" style="float: left; padding-right: 5px;" >
-**diagrams.sap.integration.TradingPartnerManagement**
+<img width="30" src="/img/resources/sap/integration_suite/open-connectors.png" alt="OpenConnectors" style="float: left; padding-right: 5px;" >
+**diagrams.sap.integration_suite.OpenConnectors**
 
-## sap.lob_industries
+<img width="30" src="/img/resources/sap/integration_suite/sap-api-hub-enterprise.png" alt="SAPAPIHubEnterprise" style="float: left; padding-right: 5px;" >
+**diagrams.sap.integration_suite.SAPAPIHubEnterprise**
 
+<img width="30" src="/img/resources/sap/integration_suite/sap-business-accelerator-_hub.png" alt="SAPBusinessAccelerator_Hub" style="float: left; padding-right: 5px;" >
+**diagrams.sap.integration_suite.SAPBusinessAccelerator_Hub**
 
-<img width="30" src="/img/resources/sap/lob_industries/sap-green-token.png" alt="SAPGreenToken" style="float: left; padding-right: 5px;" >
-**diagrams.sap.lob_industries.SAPGreenToken**
+<img width="30" src="/img/resources/sap/integration_suite/sap-integration-suite.png" alt="SAPIntegrationSuite" style="float: left; padding-right: 5px;" >
+**diagrams.sap.integration_suite.SAPIntegrationSuite**
 
-<img width="30" src="/img/resources/sap/lob_industries/sap-market-rates-management.png" alt="SAPMarketRatesManagement" style="float: left; padding-right: 5px;" >
-**diagrams.sap.lob_industries.SAPMarketRatesManagement**
-
-<img width="30" src="/img/resources/sap/lob_industries/sap-variant-configuration-and-pricing.png" alt="SAPVariantConfigurationAndPricing" style="float: left; padding-right: 5px;" >
-**diagrams.sap.lob_industries.SAPVariantConfigurationAndPricing**
-
-## sap.mobile
-
-
-<img width="30" src="/img/resources/sap/mobile/agentry.png" alt="Agentry" style="float: left; padding-right: 5px;" >
-**diagrams.sap.mobile.Agentry**
-
-<img width="30" src="/img/resources/sap/mobile/mobile-services.png" alt="MobileServices" style="float: left; padding-right: 5px;" >
-**diagrams.sap.mobile.MobileServices**
-
-## sap.other
-
-
-<img width="30" src="/img/resources/sap/other/date-and-time.png" alt="DateAndTime" style="float: left; padding-right: 5px;" >
-**diagrams.sap.other.DateAndTime**
-
-<img width="30" src="/img/resources/sap/other/iban-service.png" alt="IbanService" style="float: left; padding-right: 5px;" >
-**diagrams.sap.other.IbanService**
-
-<img width="30" src="/img/resources/sap/other/placeholder-service-name.png" alt="PlaceholderServiceName" style="float: left; padding-right: 5px;" >
-**diagrams.sap.other.PlaceholderServiceName**
-
-<img width="30" src="/img/resources/sap/other/print-service.png" alt="PrintService" style="float: left; padding-right: 5px;" >
-**diagrams.sap.other.PrintService**
-
-<img width="30" src="/img/resources/sap/other/sap-iot.png" alt="SAPIot" style="float: left; padding-right: 5px;" >
-**diagrams.sap.other.SAPIot**
-
-<img width="30" src="/img/resources/sap/other/work-calendar.png" alt="WorkCalendar" style="float: left; padding-right: 5px;" >
-**diagrams.sap.other.WorkCalendar**
-
-## sap.processautomation
-
-
-<img width="30" src="/img/resources/sap/processautomation/business-rules.png" alt="BusinessRules" style="float: left; padding-right: 5px;" >
-**diagrams.sap.processautomation.BusinessRules**
-
-<img width="30" src="/img/resources/sap/processautomation/process-automation.png" alt="ProcessAutomation" style="float: left; padding-right: 5px;" >
-**diagrams.sap.processautomation.ProcessAutomation**
-
-<img width="30" src="/img/resources/sap/processautomation/sap-build-process-automation.png" alt="SAPBuildProcessAutomation" style="float: left; padding-right: 5px;" >
-**diagrams.sap.processautomation.SAPBuildProcessAutomation**
-
-<img width="30" src="/img/resources/sap/processautomation/sap-intelligent-rpa.png" alt="SAPIntelligentRpa" style="float: left; padding-right: 5px;" >
-**diagrams.sap.processautomation.SAPIntelligentRpa**
-
-<img width="30" src="/img/resources/sap/processautomation/workflow-management.png" alt="WorkflowManagement" style="float: left; padding-right: 5px;" >
-**diagrams.sap.processautomation.WorkflowManagement**
-
-<img width="30" src="/img/resources/sap/processautomation/workflow-service.png" alt="WorkflowService" style="float: left; padding-right: 5px;" >
-**diagrams.sap.processautomation.WorkflowService**
-
-## sap.runtimes
-
-
-<img width="30" src="/img/resources/sap/runtimes/abap-environment.png" alt="AbapEnvironment" style="float: left; padding-right: 5px;" >
-**diagrams.sap.runtimes.AbapEnvironment**
-
-<img width="30" src="/img/resources/sap/runtimes/abap-solution.png" alt="AbapSolution" style="float: left; padding-right: 5px;" >
-**diagrams.sap.runtimes.AbapSolution**
-
-<img width="30" src="/img/resources/sap/runtimes/cloud-foundry-runtime.png" alt="CloudFoundryRuntime" style="float: left; padding-right: 5px;" >
-**diagrams.sap.runtimes.CloudFoundryRuntime**
-
-<img width="30" src="/img/resources/sap/runtimes/html5-app-repository.png" alt="Html5AppRepository" style="float: left; padding-right: 5px;" >
-**diagrams.sap.runtimes.Html5AppRepository**
-
-<img width="30" src="/img/resources/sap/runtimes/kyma-runtime.png" alt="KymaRuntime" style="float: left; padding-right: 5px;" >
-**diagrams.sap.runtimes.KymaRuntime**
+<img width="30" src="/img/resources/sap/integration_suite/trading-partner-management.png" alt="TradingPartnerManagement" style="float: left; padding-right: 5px;" >
+**diagrams.sap.integration_suite.TradingPartnerManagement**
 
 ## sap.saas
 
 
-<img width="30" src="/img/resources/sap/saas/sap-ariba-black.png" alt="SAPAribaBlack" style="float: left; padding-right: 5px;" >
-**diagrams.sap.saas.SAPAribaBlack**
+<img width="30" src="/img/resources/sap/saas/business-process-model-connector-for-sap-signavio-solutions.png" alt="BusinessProcessModelConnectorForSAPSignavioSolutions" style="float: left; padding-right: 5px;" >
+**diagrams.sap.saas.BusinessProcessModelConnectorForSAPSignavioSolutions**
 
-<img width="30" src="/img/resources/sap/saas/sap-ariba.png" alt="SAPAriba" style="float: left; padding-right: 5px;" >
-**diagrams.sap.saas.SAPAriba**
+<img width="30" src="/img/resources/sap/saas/customer-data-cloud.png" alt="CustomerDataCloud" style="float: left; padding-right: 5px;" >
+**diagrams.sap.saas.CustomerDataCloud**
 
-<img width="30" src="/img/resources/sap/saas/sap-concur-black.png" alt="SAPConcurBlack" style="float: left; padding-right: 5px;" >
-**diagrams.sap.saas.SAPConcurBlack**
+<img width="30" src="/img/resources/sap/saas/intelligent-situation-automation.png" alt="IntelligentSituationAutomation" style="float: left; padding-right: 5px;" >
+**diagrams.sap.saas.IntelligentSituationAutomation**
 
-<img width="30" src="/img/resources/sap/saas/sap-concur.png" alt="SAPConcur" style="float: left; padding-right: 5px;" >
-**diagrams.sap.saas.SAPConcur**
+<img width="30" src="/img/resources/sap/saas/sap-asset-performance-management.png" alt="SAPAssetPerformanceManagement" style="float: left; padding-right: 5px;" >
+**diagrams.sap.saas.SAPAssetPerformanceManagement**
 
-<img width="30" src="/img/resources/sap/saas/sap-fieldglass-black.png" alt="SAPFieldglassBlack" style="float: left; padding-right: 5px;" >
-**diagrams.sap.saas.SAPFieldglassBlack**
+<img width="30" src="/img/resources/sap/saas/sap-cloud-alm.png" alt="SAPCloudAlm" style="float: left; padding-right: 5px;" >
+**diagrams.sap.saas.SAPCloudAlm**
 
-<img width="30" src="/img/resources/sap/saas/sap-fieldglass.png" alt="SAPFieldglass" style="float: left; padding-right: 5px;" >
-**diagrams.sap.saas.SAPFieldglass**
+<img width="30" src="/img/resources/sap/saas/sap-collaborative-demand-and-capacity-management.png" alt="SAPCollaborativeDemandAndCapacityManagement" style="float: left; padding-right: 5px;" >
+**diagrams.sap.saas.SAPCollaborativeDemandAndCapacityManagement**
 
-<img width="30" src="/img/resources/sap/saas/sap-health-black.png" alt="SAPHealthBlack" style="float: left; padding-right: 5px;" >
-**diagrams.sap.saas.SAPHealthBlack**
+<img width="30" src="/img/resources/sap/saas/sap-digital-manufacturing.png" alt="SAPDigitalManufacturing" style="float: left; padding-right: 5px;" >
+**diagrams.sap.saas.SAPDigitalManufacturing**
 
-<img width="30" src="/img/resources/sap/saas/sap-health.png" alt="SAPHealth" style="float: left; padding-right: 5px;" >
-**diagrams.sap.saas.SAPHealth**
+<img width="30" src="/img/resources/sap/saas/sap-green-token.png" alt="SAPGreenToken" style="float: left; padding-right: 5px;" >
+**diagrams.sap.saas.SAPGreenToken**
 
-<img width="30" src="/img/resources/sap/saas/sap-successfactors-black.png" alt="SAPSuccessfactorsBlack" style="float: left; padding-right: 5px;" >
-**diagrams.sap.saas.SAPSuccessfactorsBlack**
+<img width="30" src="/img/resources/sap/saas/sap-health-data-services-for-fhir.png" alt="SAPHealthDataServicesForFhir" style="float: left; padding-right: 5px;" >
+**diagrams.sap.saas.SAPHealthDataServicesForFhir**
 
-<img width="30" src="/img/resources/sap/saas/sap-successfactors.png" alt="SAPSuccessfactors" style="float: left; padding-right: 5px;" >
-**diagrams.sap.saas.SAPSuccessfactors**
+<img width="30" src="/img/resources/sap/saas/sap-landscape-management-cloud.png" alt="SAPLandscapeManagementCloud" style="float: left; padding-right: 5px;" >
+**diagrams.sap.saas.SAPLandscapeManagementCloud**
 
-## sap.security
+<img width="30" src="/img/resources/sap/saas/sap-logistics-management.png" alt="SAPLogisticsManagement" style="float: left; padding-right: 5px;" >
+**diagrams.sap.saas.SAPLogisticsManagement**
 
+<img width="30" src="/img/resources/sap/saas/sap-omnichannel-promotion-pricing.png" alt="SAPOmnichannelPromotionPricing" style="float: left; padding-right: 5px;" >
+**diagrams.sap.saas.SAPOmnichannelPromotionPricing**
 
-<img width="30" src="/img/resources/sap/security/audit-log-service.png" alt="AuditLogService" style="float: left; padding-right: 5px;" >
-**diagrams.sap.security.AuditLogService**
+<img width="30" src="/img/resources/sap/saas/sap-project-and-resource-management.png" alt="SAPProjectAndResourceManagement" style="float: left; padding-right: 5px;" >
+**diagrams.sap.saas.SAPProjectAndResourceManagement**
 
-<img width="30" src="/img/resources/sap/security/authorization-and-trust-management-service.png" alt="AuthorizationAndTrustManagementService" style="float: left; padding-right: 5px;" >
-**diagrams.sap.security.AuthorizationAndTrustManagementService**
+<img width="30" src="/img/resources/sap/saas/sap-responsibility-management-service.png" alt="SAPResponsibilityManagementService" style="float: left; padding-right: 5px;" >
+**diagrams.sap.saas.SAPResponsibilityManagementService**
 
-<img width="30" src="/img/resources/sap/security/credential-store.png" alt="CredentialStore" style="float: left; padding-right: 5px;" >
-**diagrams.sap.security.CredentialStore**
+<img width="30" src="/img/resources/sap/saas/sap-s4hana-cloud-for-intelligent-intercompany-reconciliation.png" alt="SAPS4HANACloudForIntelligentIntercompanyReconciliation" style="float: left; padding-right: 5px;" >
+**diagrams.sap.saas.SAPS4HANACloudForIntelligentIntercompanyReconciliation**
 
-<img width="30" src="/img/resources/sap/security/custom-domain.png" alt="CustomDomain" style="float: left; padding-right: 5px;" >
-**diagrams.sap.security.CustomDomain**
+<img width="30" src="/img/resources/sap/saas/sap-s4hana-for-microsoft-teams.png" alt="SAPS4HANAForMicrosoftTeams" style="float: left; padding-right: 5px;" >
+**diagrams.sap.saas.SAPS4HANAForMicrosoftTeams**
 
-<img width="30" src="/img/resources/sap/security/data-privacy-integration.png" alt="DataPrivacyIntegration" style="float: left; padding-right: 5px;" >
-**diagrams.sap.security.DataPrivacyIntegration**
+<img width="30" src="/img/resources/sap/saas/sap-sustainability-data-exchange.png" alt="SAPSustainabilityDataExchange" style="float: left; padding-right: 5px;" >
+**diagrams.sap.saas.SAPSustainabilityDataExchange**
 
-<img width="30" src="/img/resources/sap/security/identity-provisioning.png" alt="IdentityProvisioning" style="float: left; padding-right: 5px;" >
-**diagrams.sap.security.IdentityProvisioning**
+<img width="30" src="/img/resources/sap/saas/sap-variant-configuration-and-pricing.png" alt="SAPVariantConfigurationAndPricing" style="float: left; padding-right: 5px;" >
+**diagrams.sap.saas.SAPVariantConfigurationAndPricing**
 
-<img width="30" src="/img/resources/sap/security/keystore-service.png" alt="KeystoreService" style="float: left; padding-right: 5px;" >
-**diagrams.sap.security.KeystoreService**
-
-<img width="30" src="/img/resources/sap/security/malware-scanning.png" alt="MalwareScanning" style="float: left; padding-right: 5px;" >
-**diagrams.sap.security.MalwareScanning**
-
-<img width="30" src="/img/resources/sap/security/oauth2-service.png" alt="Oauth2Service" style="float: left; padding-right: 5px;" >
-**diagrams.sap.security.Oauth2Service**
-
-<img width="30" src="/img/resources/sap/security/sap-data-retention-manager.png" alt="SAPDataRetentionManager" style="float: left; padding-right: 5px;" >
-**diagrams.sap.security.SAPDataRetentionManager**
-
-<img width="30" src="/img/resources/sap/security/sap-personal-data-manager.png" alt="SAPPersonalDataManager" style="float: left; padding-right: 5px;" >
-**diagrams.sap.security.SAPPersonalDataManager**
-
-## sap.ux
-
-
-<img width="30" src="/img/resources/sap/ux/cloud-portal-service.png" alt="CloudPortalService" style="float: left; padding-right: 5px;" >
-**diagrams.sap.ux.CloudPortalService**
-
-<img width="30" src="/img/resources/sap/ux/document-management-service-application.png" alt="DocumentManagementServiceApplication" style="float: left; padding-right: 5px;" >
-**diagrams.sap.ux.DocumentManagementServiceApplication**
-
-<img width="30" src="/img/resources/sap/ux/launchpad-service.png" alt="LaunchpadService" style="float: left; padding-right: 5px;" >
-**diagrams.sap.ux.LaunchpadService**
-
-<img width="30" src="/img/resources/sap/ux/sap-build-work-zone-advanced-edition.png" alt="SAPBuildWorkZoneAdvancedEdition" style="float: left; padding-right: 5px;" >
-**diagrams.sap.ux.SAPBuildWorkZoneAdvancedEdition**
-
-<img width="30" src="/img/resources/sap/ux/sap-build-work-zone-standard-edition.png" alt="SAPBuildWorkZoneStandardEdition" style="float: left; padding-right: 5px;" >
-**diagrams.sap.ux.SAPBuildWorkZoneStandardEdition**
-
-<img width="30" src="/img/resources/sap/ux/sap-task-center.png" alt="SAPTaskCenter" style="float: left; padding-right: 5px;" >
-**diagrams.sap.ux.SAPTaskCenter**
+<img width="30" src="/img/resources/sap/saas/sap-watch-list-screening.png" alt="SAPWatchListScreening" style="float: left; padding-right: 5px;" >
+**diagrams.sap.saas.SAPWatchListScreening**

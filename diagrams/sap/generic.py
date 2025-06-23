@@ -8,452 +8,496 @@ class _Generic(_SAP):
     _icon_dir = "resources/sap/generic"
 
 
-class Accelerated(_Generic):
-    _icon = "accelerated.png"
+class AdapterHighlight(_Generic):
+    _icon = "adapter-highlight.png"
 
 
-class Accept(_Generic):
-    _icon = "accept.png"
+class AdapterNonSAP(_Generic):
+    _icon = "adapter-non-sap.png"
 
 
-class ActionSettings(_Generic):
-    _icon = "action-settings.png"
+class AdapterSAP(_Generic):
+    _icon = "adapter-sap.png"
 
 
-class Add(_Generic):
-    _icon = "add.png"
+class AdminHighlight(_Generic):
+    _icon = "admin-highlight.png"
 
 
-class Alert(_Generic):
-    _icon = "alert.png"
+class AdminNonSAP(_Generic):
+    _icon = "admin-non-sap.png"
 
 
-class Arobase(_Generic):
-    _icon = "arobase.png"
+class AdminSAP(_Generic):
+    _icon = "admin-sap.png"
 
 
-class ArrowBottom(_Generic):
-    _icon = "arrow-bottom.png"
+class AIHighlight(_Generic):
+    _icon = "ai-highlight.png"
 
 
-class ArrowLeft(_Generic):
-    _icon = "arrow-left.png"
+class AINonSAP(_Generic):
+    _icon = "ai-non-sap.png"
 
 
-class ArrowRight(_Generic):
-    _icon = "arrow-right.png"
+class AISAP(_Generic):
+    _icon = "ai-sap.png"
 
 
-class ArrowTop(_Generic):
-    _icon = "arrow-top.png"
+class AlertHighlight(_Generic):
+    _icon = "alert-highlight.png"
 
 
-class Background(_Generic):
-    _icon = "background.png"
+class AlertNonSAP(_Generic):
+    _icon = "alert-non-sap.png"
 
 
-class BarChart(_Generic):
-    _icon = "bar-chart.png"
+class AlertSAP(_Generic):
+    _icon = "alert-sap.png"
 
 
-class Block(_Generic):
-    _icon = "block.png"
+class APIHighlight(_Generic):
+    _icon = "api-highlight.png"
 
 
-class BrokenLink(_Generic):
-    _icon = "broken-link.png"
+class APINonSAP(_Generic):
+    _icon = "api-non-sap.png"
 
 
-class Calendar(_Generic):
-    _icon = "calendar.png"
+class APISAP(_Generic):
+    _icon = "api-sap.png"
 
 
-class Camera(_Generic):
-    _icon = "camera.png"
+class AppHighlight(_Generic):
+    _icon = "app-highlight.png"
 
 
-class Cart(_Generic):
-    _icon = "cart.png"
+class AppNonSAP(_Generic):
+    _icon = "app-non-sap.png"
 
 
-class ChainLink(_Generic):
-    _icon = "chain-link.png"
+class AppSAP(_Generic):
+    _icon = "app-sap.png"
 
 
-class Chalkboard(_Generic):
-    _icon = "chalkboard.png"
+class BuildingHighlight(_Generic):
+    _icon = "building-highlight.png"
 
 
-class ChartTreeMap(_Generic):
-    _icon = "chart-tree-map.png"
+class BuildingNonSAP(_Generic):
+    _icon = "building-non-sap.png"
 
 
-class Cloud(_Generic):
-    _icon = "cloud.png"
+class BuildingSAP(_Generic):
+    _icon = "building-sap.png"
 
 
-class Compare(_Generic):
-    _icon = "compare.png"
+class CloudConnectorHighlight(_Generic):
+    _icon = "cloud-connector-highlight.png"
 
 
-class Competitor(_Generic):
-    _icon = "competitor.png"
+class CloudConnectorNonSAP(_Generic):
+    _icon = "cloud-connector-non-sap.png"
 
 
-class Complete(_Generic):
-    _icon = "complete.png"
+class CloudConnectorSAP(_Generic):
+    _icon = "cloud-connector-sap.png"
 
 
-class CourseProgram(_Generic):
-    _icon = "course-program.png"
+class CloudHighlight(_Generic):
+    _icon = "cloud-highlight.png"
 
 
-class CreateEntryTime(_Generic):
-    _icon = "create-entry-time.png"
+class CloudNonSAP(_Generic):
+    _icon = "cloud-non-sap.png"
 
 
-class Create(_Generic):
-    _icon = "create.png"
+class CloudSAP(_Generic):
+    _icon = "cloud-sap.png"
 
 
-class Curriculum(_Generic):
-    _icon = "curriculum.png"
+class CollisionHighlight(_Generic):
+    _icon = "collision-highlight.png"
 
 
-class CustomerOrderEntry(_Generic):
-    _icon = "customer-order-entry.png"
+class CollisionNonSAP(_Generic):
+    _icon = "collision-non-sap.png"
 
 
-class DataStore(_Generic):
-    _icon = "data-store.png"
+class CollisionSAP(_Generic):
+    _icon = "collision-sap.png"
 
 
-class Database(_Generic):
-    _icon = "database.png"
+class DaHighlight(_Generic):
+    _icon = "da-highlight.png"
 
 
-class Decline(_Generic):
-    _icon = "decline.png"
+class DaNonSAP(_Generic):
+    _icon = "da-non-sap.png"
 
 
-class Delete(_Generic):
-    _icon = "delete.png"
+class DaSAP(_Generic):
+    _icon = "da-sap.png"
 
 
-class DocumentText(_Generic):
-    _icon = "document-text.png"
+class DeployHighlight(_Generic):
+    _icon = "deploy-highlight.png"
 
 
-class Document(_Generic):
-    _icon = "document.png"
+class DeployNonSAP(_Generic):
+    _icon = "deploy-non-sap.png"
 
 
-class DownloadFromCloud(_Generic):
-    _icon = "download-from-cloud.png"
+class DeploySAP(_Generic):
+    _icon = "deploy-sap.png"
 
 
-class Download(_Generic):
-    _icon = "download.png"
+class DesktopHighlight(_Generic):
+    _icon = "desktop-highlight.png"
 
 
-class ECare(_Generic):
-    _icon = "e-care.png"
+class DesktopNonSAP(_Generic):
+    _icon = "desktop-non-sap.png"
 
 
-class ELearning(_Generic):
-    _icon = "e-learning.png"
+class DesktopSAP(_Generic):
+    _icon = "desktop-sap.png"
 
 
-class Edit(_Generic):
-    _icon = "edit.png"
+class DetailViewHighlight(_Generic):
+    _icon = "detail-view-highlight.png"
 
 
-class EmailRead(_Generic):
-    _icon = "email-read.png"
+class DetailViewNonSAP(_Generic):
+    _icon = "detail-view-non-sap.png"
 
 
-class EnergySavingLightbulb(_Generic):
-    _icon = "energy-saving-lightbulb.png"
+class DetailViewSAP(_Generic):
+    _icon = "detail-view-sap.png"
 
 
-class ExpenseReport(_Generic):
-    _icon = "expense-report.png"
+class DevicesHighlight(_Generic):
+    _icon = "devices-highlight.png"
 
 
-class Factory(_Generic):
-    _icon = "factory.png"
+class DevicesNonSAP(_Generic):
+    _icon = "devices-non-sap.png"
 
 
-class FamilyCare(_Generic):
-    _icon = "family-care.png"
+class DevicesSAP(_Generic):
+    _icon = "devices-sap.png"
 
 
-class Favorite(_Generic):
-    _icon = "favorite.png"
+class DocumentHighlight(_Generic):
+    _icon = "document-highlight.png"
 
 
-class Feed(_Generic):
-    _icon = "feed.png"
+class DocumentNonSAP(_Generic):
+    _icon = "document-non-sap.png"
 
 
-class Filter(_Generic):
-    _icon = "filter.png"
+class DocumentSAP(_Generic):
+    _icon = "document-sap.png"
 
 
-class Folder(_Generic):
-    _icon = "folder.png"
+class DocumentsHighlight(_Generic):
+    _icon = "documents-highlight.png"
 
 
-class Fresh(_Generic):
-    _icon = "fresh.png"
+class DocumentsNonSAP(_Generic):
+    _icon = "documents-non-sap.png"
 
 
-class GanttBars(_Generic):
-    _icon = "gantt-bars.png"
+class DocumentsSAP(_Generic):
+    _icon = "documents-sap.png"
 
 
-class Group(_Generic):
-    _icon = "group.png"
+class EventHighlight(_Generic):
+    _icon = "event-highlight.png"
 
 
-class History(_Generic):
-    _icon = "history.png"
+class EventNonSAP(_Generic):
+    _icon = "event-non-sap.png"
 
 
-class Home(_Generic):
-    _icon = "home.png"
+class EventSAP(_Generic):
+    _icon = "event-sap.png"
 
 
-class InternetBrowser(_Generic):
-    _icon = "internet-browser.png"
+class FactoryHighlight(_Generic):
+    _icon = "factory-highlight.png"
 
 
-class Ipad(_Generic):
-    _icon = "ipad.png"
+class FactoryNonSAP(_Generic):
+    _icon = "factory-non-sap.png"
 
 
-class Iphone(_Generic):
-    _icon = "iphone.png"
+class FactorySAP(_Generic):
+    _icon = "factory-sap.png"
 
 
-class ItHost(_Generic):
-    _icon = "it-host.png"
+class FeatureHighlight(_Generic):
+    _icon = "feature-highlight.png"
 
 
-class ItInstance(_Generic):
-    _icon = "it-instance.png"
+class FeatureNonSAP(_Generic):
+    _icon = "feature-non-sap.png"
 
 
-class ItSystem(_Generic):
-    _icon = "it-system.png"
+class FeatureSAP(_Generic):
+    _icon = "feature-sap.png"
 
 
-class KeyPair(_Generic):
-    _icon = "key-pair.png"
+class IndentHighlight(_Generic):
+    _icon = "indent-highlight.png"
 
 
-class KeyUserSettings(_Generic):
-    _icon = "key-user-settings.png"
+class IndentNonSAP(_Generic):
+    _icon = "indent-non-sap.png"
 
 
-class Laptop(_Generic):
-    _icon = "laptop.png"
+class IndentSAP(_Generic):
+    _icon = "indent-sap.png"
 
 
-class LearningAssistant(_Generic):
-    _icon = "learning-assistant.png"
+class InfoHighlight(_Generic):
+    _icon = "info-highlight.png"
 
 
-class Legend(_Generic):
-    _icon = "legend.png"
+class InfoNonSAP(_Generic):
+    _icon = "info-non-sap.png"
 
 
-class Less(_Generic):
-    _icon = "less.png"
+class InfoSAP(_Generic):
+    _icon = "info-sap.png"
 
 
-class Lightbulb(_Generic):
-    _icon = "lightbulb.png"
+class InspectHighlight(_Generic):
+    _icon = "inspect-highlight.png"
 
 
-class Locked(_Generic):
-    _icon = "locked.png"
+class InspectNonSAP(_Generic):
+    _icon = "inspect-non-sap.png"
 
 
-class Log(_Generic):
-    _icon = "log.png"
+class InspectSAP(_Generic):
+    _icon = "inspect-sap.png"
 
 
-class Mail(_Generic):
-    _icon = "mail.png"
+class KeyHighlight(_Generic):
+    _icon = "key-highlight.png"
 
 
-class Map(_Generic):
-    _icon = "map.png"
+class KeyNonSAP(_Generic):
+    _icon = "key-non-sap.png"
 
 
-class Microphone(_Generic):
-    _icon = "microphone.png"
+class KeySAP(_Generic):
+    _icon = "key-sap.png"
 
 
-class MySalesOrder(_Generic):
-    _icon = "my-sales-order.png"
+class LinkHighlight(_Generic):
+    _icon = "link-highlight.png"
 
 
-class OpenFolder(_Generic):
-    _icon = "open-folder.png"
+class LinkNonSAP(_Generic):
+    _icon = "link-non-sap.png"
 
 
-class OrgChart(_Generic):
-    _icon = "org-chart.png"
+class LinkSAP(_Generic):
+    _icon = "link-sap.png"
 
 
-class PdfAttachment(_Generic):
-    _icon = "pdf-attachment.png"
+class LockedHighlight(_Generic):
+    _icon = "locked-highlight.png"
 
 
-class PersonPlaceholder(_Generic):
-    _icon = "person-placeholder.png"
+class LockedNonSAP(_Generic):
+    _icon = "locked-non-sap.png"
 
 
-class Post(_Generic):
-    _icon = "post.png"
+class LockedSAP(_Generic):
+    _icon = "locked-sap.png"
 
 
-class PrivateKey(_Generic):
-    _icon = "private-key.png"
+class MachineHighlight(_Generic):
+    _icon = "machine-highlight.png"
 
 
-class Process(_Generic):
-    _icon = "process.png"
+class MachineNonSAP(_Generic):
+    _icon = "machine-non-sap.png"
 
 
-class Product(_Generic):
-    _icon = "product.png"
+class MachineSAP(_Generic):
+    _icon = "machine-sap.png"
 
 
-class PublicKey(_Generic):
-    _icon = "public-key.png"
+class MessageHighlight(_Generic):
+    _icon = "message-highlight.png"
 
 
-class PushpinOff(_Generic):
-    _icon = "pushpin-off.png"
+class MessageNonSAP(_Generic):
+    _icon = "message-non-sap.png"
 
 
-class Request(_Generic):
-    _icon = "request.png"
+class MessageSAP(_Generic):
+    _icon = "message-sap.png"
 
 
-class SAPLogoShape(_Generic):
-    _icon = "sap-logo-shape.png"
+class MobileHighlight(_Generic):
+    _icon = "mobile-highlight.png"
 
 
-class Save(_Generic):
-    _icon = "save.png"
+class MobileNonSAP(_Generic):
+    _icon = "mobile-non-sap.png"
 
 
-class Search(_Generic):
-    _icon = "search.png"
+class MobileSAP(_Generic):
+    _icon = "mobile-sap.png"
 
 
-class Settings(_Generic):
-    _icon = "settings.png"
+class OnPremiseHighlight(_Generic):
+    _icon = "on-premise-highlight.png"
 
 
-class Shelf(_Generic):
-    _icon = "shelf.png"
+class OnPremiseNonSAP(_Generic):
+    _icon = "on-premise-non-sap.png"
 
 
-class Shield(_Generic):
-    _icon = "shield.png"
+class OnPremiseSAP(_Generic):
+    _icon = "on-premise-sap.png"
 
 
-class Sort(_Generic):
-    _icon = "sort.png"
+class PaletteHighlight(_Generic):
+    _icon = "palette-highlight.png"
 
 
-class SoundLoud(_Generic):
-    _icon = "sound-loud.png"
+class PaletteNonSAP(_Generic):
+    _icon = "palette-non-sap.png"
 
 
-class Sound(_Generic):
-    _icon = "sound.png"
+class PaletteSAP(_Generic):
+    _icon = "palette-sap.png"
 
 
-class StatusCritical(_Generic):
-    _icon = "status-critical.png"
+class PaperPlaneHighlight(_Generic):
+    _icon = "paper-plane-highlight.png"
 
 
-class StatusInactive(_Generic):
-    _icon = "status-inactive.png"
+class PaperPlaneNonSAP(_Generic):
+    _icon = "paper-plane-non-sap.png"
 
 
-class StatusNegative(_Generic):
-    _icon = "status-negative.png"
+class PaperPlaneSAP(_Generic):
+    _icon = "paper-plane-sap.png"
 
 
-class StatusPositive(_Generic):
-    _icon = "status-positive.png"
+class PermissionHighlight(_Generic):
+    _icon = "permission-highlight.png"
 
 
-class SwitchClasses(_Generic):
-    _icon = "switch-classes.png"
+class PermissionNonSAP(_Generic):
+    _icon = "permission-non-sap.png"
 
 
-class Synchronize(_Generic):
-    _icon = "synchronize.png"
+class PermissionSAP(_Generic):
+    _icon = "permission-sap.png"
 
 
-class SysHelp(_Generic):
-    _icon = "sys-help.png"
+class RestartHighlight(_Generic):
+    _icon = "restart-highlight.png"
 
 
-class SysMonitor(_Generic):
-    _icon = "sys-monitor.png"
+class RestartNonSAP(_Generic):
+    _icon = "restart-non-sap.png"
 
 
-class SystemHANA(_Generic):
-    _icon = "system-hana.png"
+class RestartSAP(_Generic):
+    _icon = "restart-sap.png"
 
 
-class Timesheet(_Generic):
-    _icon = "timesheet.png"
+class SettingsHighlight(_Generic):
+    _icon = "settings-highlight.png"
 
 
-class Tree(_Generic):
-    _icon = "tree.png"
+class SettingsNonSAP(_Generic):
+    _icon = "settings-non-sap.png"
 
 
-class Unfavorite(_Generic):
-    _icon = "unfavorite.png"
+class SettingsSAP(_Generic):
+    _icon = "settings-sap.png"
 
 
-class Unlocked(_Generic):
-    _icon = "unlocked.png"
+class SuccessHighlight(_Generic):
+    _icon = "success-highlight.png"
 
 
-class UploadToCloud(_Generic):
-    _icon = "upload-to-cloud.png"
+class SuccessNonSAP(_Generic):
+    _icon = "success-non-sap.png"
 
 
-class Upload(_Generic):
-    _icon = "upload.png"
+class SuccessSAP(_Generic):
+    _icon = "success-sap.png"
 
 
-class Video(_Generic):
-    _icon = "video.png"
+class SynchronizeHighlight(_Generic):
+    _icon = "synchronize-highlight.png"
 
 
-class Wifi(_Generic):
-    _icon = "wifi.png"
+class SynchronizeNonSAP(_Generic):
+    _icon = "synchronize-non-sap.png"
 
 
-class World(_Generic):
-    _icon = "world.png"
+class SynchronizeSAP(_Generic):
+    _icon = "synchronize-sap.png"
 
 
-class Wrench(_Generic):
-    _icon = "wrench.png"
+class ThirdPartyHighlight(_Generic):
+    _icon = "third-party-highlight.png"
+
+
+class ThirdPartyNonSAP(_Generic):
+    _icon = "third-party-non-sap.png"
+
+
+class ThirdPartySAP(_Generic):
+    _icon = "third-party-sap.png"
+
+
+class TreeHighlight(_Generic):
+    _icon = "tree-highlight.png"
+
+
+class TreeNonSAP(_Generic):
+    _icon = "tree-non-sap.png"
+
+
+class TreeSAP(_Generic):
+    _icon = "tree-sap.png"
+
+
+class UserHighlight(_Generic):
+    _icon = "user-highlight.png"
+
+
+class UserNonSAP(_Generic):
+    _icon = "user-non-sap.png"
+
+
+class UserSAP(_Generic):
+    _icon = "user-sap.png"
+
+
+class WebHighlight(_Generic):
+    _icon = "web-highlight.png"
+
+
+class WebNonSAP(_Generic):
+    _icon = "web-non-sap.png"
+
+
+class WebSAP(_Generic):
+    _icon = "web-sap.png"
 
 
 # Aliases

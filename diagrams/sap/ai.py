@@ -3,56 +3,48 @@
 from . import _SAP
 
 
-class _Ai(_SAP):
+class _AI(_SAP):
     _type = "ai"
     _icon_dir = "resources/sap/ai"
 
 
-class BusinessEntityRecognition(_Ai):
+class BusinessEntityRecognition(_AI):
     _icon = "business-entity-recognition.png"
 
 
-class ConversationalAi(_Ai):
-    _icon = "conversational-ai.png"
-
-
-class DataAttributeRecommendation(_Ai):
+class DataAttributeRecommendation(_AI):
     _icon = "data-attribute-recommendation.png"
 
 
-class DocumentClassification(_Ai):
-    _icon = "document-classification.png"
-
-
-class DocumentInformationExtraction(_Ai):
+class DocumentInformationExtraction(_AI):
     _icon = "document-information-extraction.png"
 
 
-class InvoiceRecommendation(_Ai):
-    _icon = "invoice-recommendation.png"
+class InvoiceObjectRecommendation(_AI):
+    _icon = "invoice-object-recommendation.png"
 
 
-class PersonalizedRecommendation(_Ai):
+class PersonalizedRecommendation(_AI):
     _icon = "personalized-recommendation.png"
 
 
-class SAPAiLaunchpad(_Ai):
+class SAPAILaunchpad(_AI):
     _icon = "sap-ai-launchpad.png"
 
 
-class SAPDigitalAssistantService(_Ai):
-    _icon = "sap-digital-assistant-service.png"
+class SAPDigitalAssistant(_AI):
+    _icon = "sap-digital-assistant.png"
 
 
-class SAPDocumentTranslation(_Ai):
-    _icon = "sap-document-translation.png"
+class SAPDocumentGrounding(_AI):
+    _icon = "sap-document-grounding.png"
 
 
-class SAPTranslationHub(_Ai):
+class SAPTranslationHub(_AI):
     _icon = "sap-translation-hub.png"
 
 
-class ServiceTicketIntelligence(_Ai):
+class ServiceTicketIntelligence(_AI):
     _icon = "service-ticket-intelligence.png"
 
 
